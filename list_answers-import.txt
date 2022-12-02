@@ -1,0 +1,501 @@
+1)A
+Explan: This is the correct description of formal documentation. In addition, informal documentation may include text, diagrams, or matrices (just like formal documentation) but they are not part of a formal organizational process. BABOK 4.4.4.1
+2)B
+Explan: Though the BA will contribute to the project's risk register regarding business analysis activities, elicitation and collaboration focuses more on drawing information from and collaborating / engaging with relevant stakeholders. Of all the responses, this is most relevant. BABOK 10.38
+3)C
+Explan: This is not a stated element within the task of conduct elicitation; it is a more appropriate element in the task of preparing for elicitation. BABOK 4.1.4.1 and 4.2.4
+4)B
+Explan: This output is defined as willingness from stakeholders to engage in business analysis activities and interact with the business analyst when necessary. BABOK 4.5.8
+
+5)D
+Explan: Stakeholder engagement approach describes the types of expected engagement with stakeholders and how they might need to be managed. BABOK 4.5.3
+6)B
+Explan:Stacy is conducting elicitation through experimentation with the development team and a workshop session with the business stakeholders. BABOK 4.2.2.
+7)A
+Explan:By taking the time to ensure buy-in, the workshop will have more engaged participants. In addition, participants will have time to review supporting materials in advance of the workshop. BABOK 4.1.4.5
+8)A
+Explan:This is one of the ways to monitor the engagement of stakeholders. Other ways to measure stakeholder engagement include whether or not the right SMEs are participating effectively, if stakeholder attitudes and interest are staying constant or improving, agreements and commitments are maintained. BABOK 4.5.4.2
+9)C
+Explan:Although it is a good idea for Sheela to review any relevant supporting documentation and determine what to collect from the stakeholders, this would help Shella prepare, but not help her prepare the stakeholders who will attend the elicitation session. BABOK 4.1.4.5
+10)B
+Explan:BAs should select techniques based upon desired outcomes, cost and time constraints, the culture of the organization, and access to sources of business analysis information, not their preferences even though it might be more comfortable. BABOK 4.1.4.2
+11)D
+Explan:These are the stated inputs to the manage stakeholder collaboration task. BABOK Figure 4.5.1
+12)C
+Explan:Collaboration is the act of two or more people working together toward a common goal. BABOK 4.0
+13)B
+Explan:This is not a stated descriptor of the collaboration element. BABOK 4.5.4.3
+14)A
+Explan:This answer aligns with BABOK guidance. BABOK 4.1.4.1 and 4.1.4.2, Figure 4.1.1
+15)C
+Explan:These are effective uses of the mind mapping technique for this task. BABOK 4.1.6
+16)D
+Explan:This is a type of elicitation called "experiments" and is used when information is unknown without some sort of controlled test. BABOK 4.2.2
+17)D
+Explan:These four inputs are required to start elicitation and collaboration tasks. BABOK Figure 4.0.1
+18)C
+Explan:This is the exact definition of business analysis information. BABOK 4.4.3
+19)D
+Explan:Experiments involve identifying information that could not be known without some sort of controlled test. Experiments involve observational studies, proofs of concept, and prototypes. BABOK 4.2.2
+20)B
+Explan:Elicited information should be confirmed to identify and resolve any gaps or problems before resources are committed to use this information. BABOK 4.3.2
+21)B
+Explan:Research involves systematically discovering and studying information from materials or sources that are not directly known by stakeholders to identify trends or past results. Stakeholders can still participate in the research. BABOK 4.2.2
+22)B
+Explan:The BABOK actually uses the phrase "capture the elicitation outcomes." This is an element of conduct elicitation. BABOK 4.2.4.2
+23)C
+Explan:You are utilizing the "research" type of elicitation. BABOK 4.2.2
+24)C
+Explan:This is the correct list of guidelines and tools for the task "conduct elicitation." BABOK Figure 4.2.1
+25)A
+Explan:The prerequisite for elicitation process includes gathering of all resources needed, and scheduling the resources for conducting the selected elicitation activities. BABOK Chapter 4 Introduction and 4.1.2
+26)A
+Explan:When the BA process is audited, a regulator may need to provide approval for the aspects of the BA approach that are tailored. They may also require that certain stakeholders be involved in BA activities. BABOK 3.1.7 and 3.2.7
+27)C
+Explan:Use the mnemonic "CARA'S SOUPS" to remember the attributes: complexity, absolute reference, risks, author, source, stability, ownership, urgency, priority, status. BABOK 3.4.4.6
+28)B
+Explan:This is the only stated guideline or tool for the identify business analysis performance improvements task which is the task in question. These standards may include performance metrics or expectations for business analysis work. BABOK 3.5.5
+29)B
+Explan:Adaptive approaches focus on rapid delivery of business value in short iterations. BABOK 3.1.4.1 and 3.1.4.2
+30)A
+Explan:"According to the BABOK, each organization uses some tools to store, retrieve, and share business analysis information. These information management tools may be as simple as a whiteboard or complex as in a global wiki. BABOK 3.4.5"
+31)C
+Explan:Risk analysis and management is used to identify risks to the initiative resulting from stakeholder attitudes or the inability of key stakeholders to participate in the initiative. In this case the inability of the vendor to do extra work due to scope creep. BABOK 3.2.6
+32)C
+Explan:At this point variances are recognized and plans may need to change to incorporate preventive or corrective actions. It can happen anytime throughout the life cycle of a project. BABOK 3.5.4.4
+33)B
+Explan:This is one of the primary components of the business analysis approach. BABOK 3.1.8
+34)A
+Explan:The BA performance assessment not only includes results, variances, and root causes, it also documents proposed approaches to effectively address performance issues. BABOK 3.5.8
+35)D
+Explan:Timing is an element of the plan business analysis approach. BABOK 3.1.4.4
+36)B
+Explan:This list correctly lists all stakeholders identified in all tasks in BAPM knowledge area. BABOK 3.1.7, 3.2.7, 3.3.7, 3.4.7, 3.5.7
+37)A
+Explan:"The planning process is iterative and plans are updated to address changing business conditions and newly raised issues. BABOK 3.1.4.1"
+38)A
+Explan:Reviewing the roles of each stakeholder will help Rohan get a high-level understanding of where and how each stakeholder could contribute to the initiative. BABOK 3.2.4.1
+39)B
+Explan:These are the stated stakeholders for the plan business analysis information management task. BABOK 3.4.7
+40)D
+Explan:The business analysis approach is an output from the plan business analysis approach task and an input to the identify business analysis performance improvements. BABOK 3.5.3
+41)D
+Explan:Sponsors have the authority to impose their own requirements. BABOK 3.3.7
+42)C
+Explan:"This qualitative measure includes asking stakeholders whether Whitney's work products were easy to use as standalone deliverables or whether they required extensive explanation in order to be understood. BABOK 3.5.4"
+43)B
+Explan:Reviewing the roles of each stakeholder will help Rohan get a high-level understanding of where and how each stakeholder could contribute to the initiative. BABOK 3.2.4.1
+44)D
+Explan:"When the BA process is audited, a regulator may need to provide approval for the aspects of the BA approach that are tailored. They may also require that certain stakeholders be involved in BA activities. BABOK 3.1.7 and 3.2.7"
+45)A
+Explan:Use the mnemonic "CARA'S SOUPS" to remember the attributes: complexity, absolute reference, risks, author, source, stability, ownership, urgency, priority, status. BABOK 3.4.4.6
+46)B
+Explan:As factors change during the life cycle of the initiative, the plan can be revisited and modified as appropriate to ensure the ongoing engagement of stakeholders. BABOK 3.2.4.2
+47)A
+Explan:"Performance analysis should occur throughout the initiative. BABOK 3.5.2"
+48)D
+Explan:The business analysis planning and monitoring knowledge area includes tasks that would have solved the described issues. BABOK 3.0, 3.2, 3.3, 3.4, and 3.5
+49)A
+Explan:Information will be communicated differently for stakeholders who are geographically dispersed vs. physically co-located. BABOK 3.2.4.3
+50)C
+Explan:In addition, it will identify the stakeholders who will have the responsibility and authority to make decisions about business analysis work and who will approve changes to BA information. BABOK 3.3.8
+51)B
+Explan:This document identifies the BA approach and activities that will be performed across the initiative including who will perform the activities, the timing and sequencing of the work, the deliverables that will be produced, and the BA techniques that may be utilized. BABOK 3.1.8
+
+52)C
+Explan:Limits may be described by regulations, contracts, agreements, warranties, certifications, or other legal obligations. BABOK 3.3.5
+
+53)B
+Explan:The project manager is accountable for the success of the project and must be consulted before changes are implemented to assess the impact of those changes on the project. BABOK 3.5.7
+
+54)B
+Explan:An organizational readiness assessment includes an impact analysis which results in a change strategy. BABOK 3.2.5
+55)A
+Explan:The primary purpose of the BABOK is to define the profession of business analysis and provide a set of commonly accepted practices. BABOK 1.1
+56)A
+Explan:Process models can be used to define and document the business analysis approach. BABOK 3.1.6 and 10.35
+
+57)C
+Explan:The PM and BA most likely share identification and management of stakeholders and so is the likely collaborator for this task. BABOK 3.2.7
+
+58)A
+Explan:Business analysis performance assessment is a guideline and tool. The BA may need to re-plan their approach based upon findings from the BA performance assessment. BABOK Figure 3.1.1
+59)D
+Explan:This technique can be used to generate an initial list of potential stakeholder names for the approver role. BABOK 3.3.6
+60)D
+Explan:The prerequisite for elicitation process includes gathering of all resources needed, and scheduling the resources for conducting the selected elicitation activities. BABOK Chapter 4 Introduction and 4.1.2
+
+61)C
+Explan:The BABOK states specifically that models may improve collaboration. BABOK 4.3.4.2
+
+62)C
+Explan:Stacy is conducting elicitation through experimentation with the development team and a workshop session with the business stakeholders. BABOK 4.2.2.
+
+63)D
+Explan:BABOK 7.2.6 and 10.28
+
+64)A
+Explan:Though as a business analyst you want to meet your deadlines, time should not be the main factor in determining the level of decomposition. BABOK 7.1.4.2
+
+65)A
+Explan:An activity diagram utilizes unified modeling language (UML). BABOK 10.35.3.1
+
+66)A
+Explan:The stated requirement is incomplete in the sense that it lacks a qualifier. A complete requirement would state "The call center operator shall be able to view details of a protected household within two seconds of issuing a query." BABOK 7.2.4.1
+
+67)D
+Explan:The customer writes the user stories because he is in the best position to know the goal they want to accomplish. BABOK 7.1.6 and 10.48
+68)A
+Explan:After requirements are verified, they need to be approved. BABOK Figure 7.2.1
+
+69)C
+Explan:The same techniques are used to elicit, model, and analyze both. "When the focus of the specifying and modelling activity is on understanding the need, the outputs are referred to as requirements. When the focus of the specifying and modelling activity is on a solution, the outputs are referred to as designs." Task 7.5, "Define Design Options," does not describe analyzing and modeling as does task 7.1, and will have different techniques. BABOK 7.1.1 and 7.1.2
+
+70)D
+Explan:The form, level of detail, and what is being modeled are all dependent on the context, audience, and purpose. BABOK 7.0
+71)B
+Explan:Note that there is no mandatory structure for User Stories. This structure ("role, goal, motivation") is the most popular. BABOK 10.48.3
+
+72)C
+Explan:Requirements allocation is the process of assigning requirements to solution components and releases to best achieve the objectives and is a consideration in Define Design Options. BABOK 7.5.4.3
+
+73)B
+Explan:The trigger Payment Approved" implies that not all payments are accepted. Plus, the Payment_Accepted attribute in the Payment entity hints at this. ""How the entity changes or transitions from one state to another could be determined by the steps of a process, by business rules, or by information content."" BABOK 10.44.2"
+
+74)B
+Explan:This will offer the most flexibility and most closely match the requirements of the subscription management staff. BABOK 10.15.3.3
+
+75)B
+Explan:The Renewal_number attribute hints at this. BABOK 10.15.3.2, 10.44.3.2
+
+76)C
+Explan:This is one the techniques used in the Rationale modeling category which models the "why" of a change. BABOK 7.1.4.1
+
+77)D
+Explan:BABOK 7.2.4.1
+78)D
+Explan:A matrix can be used to compare features of both Confluence and SharePoint sites, to determine which site will best meet the project team collaboration and storage needs of the organization. BABOK 7.1.4
+
+79)B
+Explan:BABOK 7.6.1 and Figure 7.6.1
+
+80)C
+Explan:Class diagrams use that convention. BABOK Figure 10.15.2
+
+81)C
+Explan:The documentation needed is classified as "metadata" and would include "what the entities represent, when and why they were created or changed, how they should be used, how often they are used, when, and by whom." BABOK 10.15.3.5
+
+82)B
+Explan:This answer represents the solution core concept. BABOK Table 7.0.1
+
+83)C
+Explan:BABOK 7.1.6
+84)C
+Explan:Business analysts may choose to perform this task themselves and then separately package and communicate the requirements to stakeholders for their review and approval, or they might choose to invite some or all stakeholders to participate in this task." BABOK 7.1.7
+85)D
+Explan:BABOK 7.0
+
+86)A
+Explan:BABOK 10.15.2
+
+87)D
+Explan:BABOK 10.35.3
+
+88)D
+Explan:Assumptions are factors that are believed to be true but has not been confirmed to be accurate, or that could be true now but may not be in the future. BABOK 7.3.4.1 and Glossary
+
+89)C
+Explan:The business analyst should consider documenting recommendations ( e.g. simplify the work people perform by re-engineering or sharing processes), even though they are outside the scope of automation. BABOK 7.5.4.2
+
+90)A
+Explan:BABOK 7.1.4.2
+91)A
+Explan:The business analyst, in conjunction with the customer, end users, and sponsors, has the primary responsibility for determining whether or not requirements are validated. BABOK 7.3.7
+
+92)D
+Explan:User stories are typically a sentence or two that describes who has the need and the goal they are trying to achieve. They are not detailed. BABOK 10.48.2
+93)A
+Explan:These are elements in Define Design Option which is what the business analyst is engaged in. BABOK 7.5.4.
+94)D
+Explan:Business analysts should use any combination of models that best meet stakeholder needs. BABOK 7.1.4.1
+
+95)D
+Explan:BABOK 10.23.1 and 10.12.2
+
+96)B
+Explan:Metadata describes what the entities represent, when and why they were created or changed, how they should be used, how often they are used, when, and by whom. In essence meta data is the information (data) about the data. BABOK 10.15.3.5 and BABOK Glossary
+
+97)D
+Explan:Prototypes assist stakeholders in visualizing the appearance and capabilities of a planned solution. This will help the stakeholders understand the complex requirements and provide feedback. BABOK 7.1.6 and 10.36
+98)B
+Explan:The 11 other categories listed in the BABOK. BABOK 10.30.3
+
+99)C
+Explan:These are all Define Requirements Architecture techniques. BABOK 7.4.6
+
+100)C
+Explan:Implementation SMEs use their expertise to provide input about the constraints and costs of a solution. BABOK 7.5.7
+
+101)C
+Explan:"One of agile's slogans is to ""fail fast."" That is, don't spend a lot of time and money on ""non-risky"" functionality if there is a chance that overall, the solution may not be possible. BABOK 5.3.4.1"
+102)A
+Explan:Consensus among stakeholders is usually sought prior to requesting approval of requirements. During this process, stakeholder groups frequently have varying points of view. The business analyst facilitates communication between stakeholders. BABOK 5.5.4.2
+
+103)D
+Explan:Having the solution scope to reference when approving requirements will assist in the accurate assessment of alignment and completeness. BABOK 5.5.5
+104)D
+Explan:The Tester is responsible for ensuring quality assurance standards are met. BABOK 5.5.7
+
+105)C
+Explan:Any new requirements must be resolved by either officially amending the scope and changing all documentation or removing the requirements to maintain the current scope. This done through the Assess Requirements Changes and Approve Requirements tasks within Requirements Lifecycle Management. BABOK 5.4.2, 5.5.4, and 3.3.2
+
+106)B
+Explan:This is one of the challenges of prioritization which is an element of the prioritize requirements task. BABOK 5.3.4.2
+107)A
+Explan:BABOK 1.1 "Tasks may vary in form, order, or importance for individual business analysts or for various initiatives."
+
+108)A
+Explan:Functional decomposition is used to break down the components of the solution into parts when developing a change strategy. BABOK 6.4.6 and 10.22
+
+109)D
+Explan:The current state of an enterprise is rarely static while a change is being developed and implemented.""As such, the current state can never really be "baselined." BABOK 6.1.2
+110)B
+Explan:Before determining how to continue, Miriam has to discern what, if anything, changed in the environment and if whatever changed will significantly modify the current state definition and/or analysis activities. BABOK 6.1.2
+111)A
+Explan:A BA would use functional decomposition to help break down the product or solution scope. BABOK 6.4.6 and 10.22
+
+112)A
+Explan:The solution scope can be described in many different ways to help with stakeholder understanding. BABOK 6.4.4.1
+
+113)B
+Explan:The benefits referred to in the question are examples of desired outcomes. While the BABOK typically focuses on "goals and objectives," it does use this term in the description of how business cases are used in the Define Future State task. BABOK 6.2.6; 10.7.3.2
+
+114)B
+Explan:These are three of multiple techniques used in the assess risks task. BABOK 6.3.6
+
+115)C
+Explan:User stories provide a brief statement about what people do or need to do when using the solution. BABOK 7.1 and 10.48
+116)C
+Explan:User stories serve to identify specific acceptance criteria to help the team to understand what the solution needs to provide in order to deliver value for the stakeholders. BABOK 10.38.3.4
+
+117)A
+Explan:The status quo is always considered an option and presented along with other solution alternatives. The costs associated with doing nothing might spur action. BABOK 6.1.4.1
+118)A
+Explan:This is the best recommendation for this scenario. BABOK 6.3.4.5
+
+119)B
+Explan:Bias of the author of a business case is a stated limitation of the tool in the BABOK. 10.7.4.2
+
+120)D
+Explan:The readiness assessment considers the enterprise's capacity to make and sustain the change, but also realize value from the solution. BABOK 6.4.4.3
+121)A
+Explan:In addition, communication channels and relationship are heavily influenced by the organizational structure. BABOK 6.1.4.2
+122)B
+Explan:While strategies can be included in a project charter, project charters are not mentioned in the BABOK. "A strategy may be captured in a strategic plan, product vision, business case, product roadmap, or other artifacts." BABOK 6.0 overview
+123)A
+Explan:If the enterprise can meet the need with the current state capabilities, then the change may be relatively small or not needed. A change strategy will be needed if there are missing capabilities or ones that must be improved to meet the business need. BABOK 6.4.4.2
+
+124)B
+Explan:This is a major and complex endeavor. A feasibility analysis is warranted, especially given the criticality of the applications. BABOK 6.2.4.9 and 10.7.3.3.
+125)B
+Explan:These are constraints because they describe aspects of the current and future state that may not be changed by the solution. BABOK 6.2.4.3
+
+126)B
+Explan:A business goal is a statement of a state or condition that an organization is seeking to establish and maintain. BABOK 6.2.4.1
+127)C
+Explan:The scenario states that the recommended strategy has a cumulative financial analysis including a detailed costs and benefits analysis of the overall initiative. It is imperative that the strategy also include the forecasted value (cost-benefits) associated with each transition state (phase). BABOK 6.4.2
+128)D
+Explan:An enterprise readiness assessment is an element in the define change strategy task which takes into consideration the availability of resources. BABOK 6.4.4.3
+129)A
+Explan:With risk-aversion, there is an unwillingness to accept much uncertainty. BABOK 6.3.4.4
+
+130)B
+Explan:"Forecasted benefits" is another way of saying "needed value." The answer describes the task of validate requirements which is one of the tasks that uses the future state description, an output of the define future state task which is what the scenario described. BABOK Figure 6.2.1
+131)D
+Explan:Finn is gathering the actual metrics that describe the performance of the solution in order to measure and analyze solution performance. BABOK 8.2 and 8.3
+
+132)B
+Explan:Since the users didn't even know about it, this is most likely the case! BABOK 2.3
+133)A
+Explan:While this isn't spelled out in the BABOK, you do want the organization to experience value as quickly as possible. Seizing the opportunity to demonstrate the functionality would add immediate value while fostering excitement about the solution capability. BABOK 8.0
+
+134)C
+Explan:"The solution must exist and be in use in some form in order to be evaluated. BABOK 8.3.3"
+135)A
+Explan:BABOK 8.3.2
+136)A
+Explan:"BABOK 8.3.5"
+137)C
+Explan:Unfortunately, the organization is locked into the health care plan for the calendar year. BABOK 8.5.4.2
+
+138)A
+Explan:BABOK 8.5.4.2
+
+139)B
+Explan:BABOK 8.2.4.5
+
+140)A
+Explan:BABOK 8.1.4.2
+141)C
+Explan:"This is the definition for the non-functional requirements analysis technique. The availability, capacity, maintainability, speed, etc. of the solution. BABOK 8.1.6"
+142)B
+Explan:This option would help objectively assess both pieces of equipment based upon weighted value criteria. BABOK 8.5.6 and 10.16.3 (Decision analysis)
+143)B
+Explan:While the BABOK doesn't state this specifically, the need for an organizational change effort is obvious. However, it is imperative to perform root cause analysis for the lack of engagement before a specific recommendation is offered. BABOK 8.5.4.2
+144)C
+Explan:Evaluations may be needed prior to deployment especially from an enterprise perspective. BABOK 8.0
+145)C
+Explan:These are all the elements contained within Assess Enterprise Limitations that would be extremely helpful when assessing this solution. They are all pieces of the puzzle in that they would each provide different but valuable information about this significant change. BABOK 8.4.4
+
+146)C
+Explan:Alan is assuming that people will be able to lift a 2.5 gallon jug. Assumptions are risks. BABOK 8.5.6
+
+147)B
+Explan:Potential Value is listed as an input to Analyze Performance Measures, which is what the question is asking. The forecasted level is "...a benchmark against which solution performance can be evaluated." BABOK 8.2.3
+
+148)C
+Explan:BABOK 8.4.4.1
+
+149)A
+Explan:"BABOK 8.2.2"
+150)B
+Explan:All of these techniques would give insight to which stakeholder groups (roles) are impacted by a solution and in what way. BABOK 8.4.4.2
+151)C
+Explan:BABOK 8.4.4.3
+
+152)D
+Explan:BABOK 10.45.4
+
+153)B
+Explan:This answer adds the enterprise goals and objectives which is a more comprehensive answer. Understanding potential value doesn't end here though! BABOK 8.2.2
+
+154)C
+Explan:An organizational readiness assessment includes an impact analysis which results in a change strategy. BABOK 3.2.5
+
+155)C
+Explan:The scenario states Ashish is "specifying the conditions required to meet the business need" which is another way of saying defining the future state. BABOK 6.2.1
+
+156)D
+Explan:Since there is an output of a claim receipt, there should be a step for it in the SIPOC. BABOK 10.34.3.4
+157)C
+Explan:Recording the video is the most likely to be a precondition and excluded from the process, especially since it is an input. BABOK 10.34.3.4
+
+158)C
+Explan:Elicitation results contain information of different types, so it is natural to expect that different types of requirements might be specified at the same time. BABOK 7.1.4.3
+
+159)C
+Explan:Prioritization is the act of ranking requirements to determine their relative importance to stakeholders. When a requirement is prioritized, it is given greater or lesser priority. Priority can refer to the relative value of a requirement, or to the sequence in which it will be implemented. Prioritization is an ongoing process, with priorities changing as the context changes. BABOK 5.3.2 and 5.3.8
+
+160)A
+Explan:Any requirements and design in the form of text, matrices or diagrams are ready to prioritize. BABOK Figure 5.3.1 and 5.3.3
+
+161)C
+Explan:This document identifies the BA approach and activities that will be performed across the initiative including who will perform the activities, the timing and sequencing of the work, the deliverables that will be produced, and the BA techniques that may be utilized. BABOK 3.1.8
+
+162)B
+Explan:The current state has been analyzed, the future state has been defined, and risks have been assessed. The next step is to perform the task of "Define Change Strategy." BABOK Figure 6.4.3
+
+163)D
+Explan:The output is the stakeholder engagement approach. Collaboration and communication approaches are included in that output. BABOK 3.2.8
+
+164)A
+Explan:Although it is not required, tracing a large number of requirements may be unmanageable with a manual approach. BABOK 5.1.4.3
+165)B
+Explan:Business rules analysis is used to identify business rules that may be similar across the enterprise for purposes of reuse. BABOK 5.2.6 and 10.9
+166)D
+Explan:This is a component of FMEA (Failure Mode and Effects Analysis) but is not a recognized component of the risk analysis and management technique in the BABOK. BABOK 10.38.3
+
+167)A
+Explan:This is a major and complex endeavor. A feasibility analysis is warranted, especially given the criticality of the applications. BABOK 6.2.4.9 and 10.7.3.3.
+
+168)C
+Explan:The validation process can expose the different, conflicting needs and expectations of stakeholders. Remember that most of the tasks in the BABOK are not sequential, but are iterative and concurrent in nature. BABOK 7.3.2
+169)B
+Explan:These are the stated techniques for confirming elicitation results. BABOK 4.3.6
+
+170)A
+Explan:This is the purpose for using user stories as a technique in the specify and model requirements task. BABOK 7.1.6 and 10.48
+
+171)C
+Explan:Given the information in the scenario, you can infer this is the most critical factor of those listed given the business activity at the end of the year. BABOK 6.4.4.5
+
+172)B
+Explan:While valid, quality metrics must also be reliable and timely. BABOK 10.28.3.3
+
+173)B
+Explan:These are three of multiple techniques used in the assess risks task. BABOK 6.3.6
+
+174)B
+Explan:One of the strengths of Process Modeling is that it provides documentation for compliance purposes. BABOK 10.35.4.1
+
+175)A
+Explan:Understanding the business need occurs as part of analyzing the current state. The BABOK says, "Without clearly understood business needs, it is impossible to develop a coherent strategy, and the resulting change initiative is almost certain to be driven by a mix of conflicting stakeholder demands.” Resolving the conflict consists of mediation among stakeholders and involves several steps. We can imply that this mediation will take time, delay the effort, and run the risk of weakening the relationships among stakeholders. BABOK 6.1.2, 9.5.4
+
+176)C
+Explan:The total elapsed time from initial input to final output is the sum of the processing time and wait time. BABOK Figure 10.34.2, 10.34.3.4
+
+177)C
+Explan:BABOK 7.4.3 and Figure 7.4.1
+
+178)B
+Explan:This is a recurring theme throughout strategy analysis. BABOK 6.0
+
+179)A
+Explan:These are the stated inputs to the manage stakeholder collaboration task. BABOK Figure 4.5.1
+180)A
+Explan:BABOK 7.2.6 and 10.28
+181)C
+Explan:Adaptive approaches focus on rapid delivery of business value in short iterations. BABOK 3.1.4.1 and 3.1.4.2
+
+182)B
+Explan:The theme of collaboration to promote and ensure buy-in is prevalent throughout strategy analysis but is introduced in the BACCM for the chapter. BABOK Table 6.0.1
+
+183)B
+Explan:This is a poorly written requirement because it names technologies and constrains the solution design.
+
+184)B
+Explan:This is the only stated guideline or tool for the identify business analysis performance improvements task which is the task in question. These standards may include performance metrics or expectations for business analysis work. BABOK 3.5.5
+
+185)D
+Explan:BABOK 7.6.6 and 10.19
+186)A
+Explan:All of these techniques would help you understand the current state and context and need for the enhancement. All are listed as techniques to help analyze the current state. BABOK 6.1.6
+
+187)A
+Explan:It is true that a DFD is not sequentially oriented. More information is needed if the trigger for an order needs to be established. BABOK 10.13.3.4
+
+188)A
+Explan:This flow can be assumed since there is a shipping confirmation flow, but no flow to supply the instructions. BABOK 10.13.3.4
+
+189)C
+Explan:Changes are likely to be referenced by auditors to confirm compliance to standards. BABOK 5.4.7
+
+190)C
+Explan:Sponsors have the authority to impose their own requirements. BABOK 3.3.7
+
+191)A
+Explan:Timing is an element of the plan business analysis approach. BABOK 3.1.4.4
+
+192)A
+Explan:A feasibility study supports the strategic effort and looks at the feasibility and viability of new business opportunities. BABOK 10.7.3.3 and Glossary
+193)A
+Explan:The business need must be understood before exploring potential solutions. BABOK 6.0
+
+194)A
+Explan:The BABOK states specifically that models may improve collaboration. BABOK 4.3.4.2
+
+195)A
+Explan:Governance determines how decisions are made and communicated. BABOK 5.5.4.3 and 3.3.4.1
+
+196)C
+Explan:This is one of the primary components of the business analysis approach. BABOK 3.1.8
+197)D
+Explan:BABOK 7.4.3
+198)B
+Explan:Gap analysis identifies the differences between current state and future state capabilities and need to be addressed in the transition and future states. BABOK 6.4.4.2
+
+199)D
+Explan:This is mainly true for a COTS application. BABOK 8.5.4.2
+
+200) A
+Explan: No explan

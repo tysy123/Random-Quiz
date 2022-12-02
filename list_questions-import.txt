@@ -1,0 +1,1598 @@
+1)What is the primary difference between formal and informal documentation as possible forms for business analysis (information) packages?
+
+A. Formal documentation is usually based on a template used by the organization and provides a stable, easy to use, long-term record of the information.
+B. Formal documentation is always presented in the form of a presentation.
+C. Formal documentation always includes texts, matrices, and/or diagrams.
+D. Formal documentation is always approved and signed off on by the sponsor.
+
+,
+2)Which of the following activities applies the LEAST to requirements elicitation and collaboration?
+
+A. Monitoring stakeholder engagement
+B. Developing a risk register
+C. Installing new, off-the-shelf software
+D. A small enhancement to an existing system
+
+,
+3)Which of the following is NOT a key element to consider when conducting elicitation activities?
+
+A. Determine what forms of output the activity will generate.
+B. Consider how the information will be used.
+C. Select an elicitation technique to use.
+D. Understand how the output integrates into what is already known.
+
+,
+4)What is the output of the manage stakeholder collaboration task?
+
+A. Stakeholder collaboration.
+B. Stakeholder engagement.
+C. Stakeholder list, maps, and personas.
+D. Business analysis performance assessment.
+
+,
+5)Which of the following options is an input to managing stakeholder collaboration?
+
+A. Scheduled resources
+B. Solution approach
+C. Stakeholder register
+D. Stakeholder engagement approach
+
+,
+6)"Stacy is working on an IT change initiative which will replace the current time-consuming process of data transfer from Appl-A to Appl-B by a faster data transfer process. Stacy has been working with the development team to experiment with different data transfer approaches to understand the advantages and disadvantages of the various approaches. She will then hold a workshop to share those results with a select group of business stakeholders to get their input on the best approach to use for the solution. Which task Stacy is performing"
+
+A. Define design options.
+B. Conduct Elicitation.
+C. Prepare for elicitation.
+D. Conduct a proof of concept.
+
+,
+7)Keith is scheduling participants for a workshop associated with a highly debated project with an aggressive timeline. He must ensure he has everyone's buy-in on the session objectives, purpose, and the process, as well as give them time to review the supporting materials. He sees all of the stakeholders are available in two days but not again for almost three weeks. When should Keith schedule the workshop and why?
+
+A. Three weeks because he needs time to prepare the stakeholders for the event and give them time to review the supporting materials.
+B. Two days because the project has an aggressive timeline which has to be met no matter what.
+C. Two days, because if follow-up is needed he can schedule a second session in three weeks.
+D. Three weeks to ensure everyone can attend the session.
+
+,
+8)Molly is having a difficult time getting stakeholders to confirm elicitation results from their interviews despite several email reminders. She becomes concerned; why?
+
+A. Failure to confirm elicitation results in a timely manner is one of the signs that required levels of stakeholder engagement might be decreasing.
+B. She is concerned that the resources are being diverted to other projects.
+C. She is in danger of missing her agreed timelines.
+D. She doesn't want to start to model the requirements until she knows they are correct.
+
+,
+9)Sheela has been working on a project to upgrade a cross-border money transfer system due to new regulations. For this project, Sheela will need to collaborate with a number of government officials to understand the relevant parts of the new regulation, its scope, any exceptions, penalty limits for non-compliance and other relevant information in the given context. Which of the following is not an activity that would help to prepare government stakeholders for the requirements elicitation session?
+
+A. Sheela should share any relevant supporting documents to the stakeholders before the requirement elicitation session.
+B. Sheela should educate the stakeholders on any elicitation techniques they are unfamiliar with that will be used in the elicitation session.
+C. Sheela should explore any relevant supporting documents available in the organization and determine what to collect from stakeholders.
+D. Sheela should send out a meeting agenda to relevant stakeholders well before the elicitation session.
+
+,
+10)You are selecting elicitation techniques for an upcoming requirements workshop. What is NOT a valid criterion to utilize when selecting techniques for an elicitation activity?
+
+A. The culture of the organization
+B. Your preferences
+C. Cost and time constraints
+D. Desired outcomes
+
+,
+11)What are the inputs to the manage stakeholder collaboration task?
+
+A. Stakeholder engagement approach and business analysis approach
+B. Stakeholder engagement approach and information management approach
+C. Business analysis approach and business analysis performance assessment
+D. Stakeholder engagement approach and business analysis performance assessment
+
+,
+12)The process of "two or more people or organizations working together toward a common goal" is the definition of which of the following terms?
+
+A. Conflict resolution
+B. Compromise
+C. Collaboration
+D. Elicitation
+
+,
+13)Which of the following statements is NOT true regarding collaboration?
+
+A. Collaboration promotes a shared effort to resolve problems.
+B. Collaboration involves communication on an "as needed" basis.
+C. Collaboration involves regular, frequent, and bi-directional communication.
+D. Collaboration encourages the free flow of information and ideas.
+
+,
+14)When identifying stakeholders and selecting elicitation techniques for requirements elicitation, which of the following best describes the relationship between the two?
+
+A. Identify stakeholders involved in the change and then select elicitation techniques suited to them.
+B. There is no relationship, you may select the elicitation techniques you prefer before identifying your stakeholders.
+C. Only identify stakeholders who have the availability to participate in elicitation and then select elicitation techniques suitable to them.
+D. The relationship between the two depends upon the project approach and context associated with the business need.
+
+,
+15)How is mind mapping utilized in the prepare for elicitation task?
+
+A. Used to estimate the time and cost of business analysis tasks associated with planned elicitation events.
+B. Used by the BA to identify which sources of business analysis information to consult.
+C. Used by the BA to identify which sources of business analysis information to consult and which elicitation techniques might be most effective.
+D. Mind mapping is not a suggested tool for this task.
+
+,
+16)Shelby is eliciting requirements for a new program intended to increase employee satisfaction. Recent surveys indicated that employees did not feel recognized for a job well done, but the sponsor is not sure a "Gold Star Award" would bolster employee satisfaction results at their company. What could Shelby suggest?
+
+A. Scrap the idea because it is too risky.
+B. Researching other companies to see what they do and then benchmark against existing programs.
+C. Suggest that a quick survey be distributed to see what employees think of the idea.
+D. Suggest the "Gold Star Award" be piloted and then assess the results before moving forward.
+
+,
+17)Kathy is a BA and has just been assigned to work on a government compliance project. Known as a "doer," she is anxious to get started with her elicitation and collaboration activities, especially regarding an interview with a key stakeholder who will go on vacation in a week. Her BA mentor, Ellie, urges her to slow down a bit and complete some activities before conducting the interview. What does Ellie recommend that Kathy do before she starts elicitation?
+
+A. Understand needs, gather business analysis information, develop the stakeholder engagement approach.
+B. Develop the elicitation plan, elicitation results (unconfirmed), elicitation (confirmed), business analysis information (communicated) and stakeholder engagement.
+C. Prepare the elicitation activity plan.
+D. Understand needs, gather business analysis information, develop the stakeholder engagement approach and the business analysis performance assessment.
+
+,
+18)You are mentoring a new business analyst in the communications arena. They are preparing for their role as facilitator for a workshop that will review requirements elicited to date for purposes of confirmation from source stakeholders. They are using the BABOK as reference for their prep. They come to you asking about "business analysis information" since the BABOK says they need it as an input but they have no idea as to what it includes. How you do explain the term to them?
+
+A. Instead of giving them the answer, you try to help them be more resourceful by advising them to check the glossary and get back to you with any further questions.
+B. You explain to them that "business analysis information" means all of the stated requirements documented to date from that group of stakeholders along with their stated and documented concerns for review at the workshop.
+C. You tell them that "business analysis information" is a "catch-all" phrase that basically means any kind of information at any level of detail that is used as an input for or output of business analysis work.
+D. You explain to them that "business analysis information" means all of the stated requirements documented to date from that group of stakeholders for review at the workshop.
+
+,
+19)Kato is working with stakeholders on a proof of concept to validate the design of the new system. What type of elicitation is Kato's team utilizing?
+
+A. Research
+B. Prototyping
+C. Collaborative
+D. Experiments
+
+,
+20)You are a Business Analyst working on a project to upgrade the current billing system. After eliciting all the requirements from relevant stakeholders, you set up a meeting with solution team to explain the new functionality requested and to review the changes needed to the existing functionality. In this meeting with developers, you discover that some requirements will not work with the current system functionality and you find inconsistencies and gaps in the requirements. As a Business Analyst, what could you have done to avoid these issues earlier in the process?
+
+A. The Business Analyst could have questioned the right SMEs or knowledgeable stakeholders who had understood the system functionality.
+B. The Business Analyst could have confirmed the elicitation results right after any elicitation activities to ensure they were accurate.
+C. The Business Analyst could have involved development team in elicitation activities.
+D. The Business Analyst could have studied the current system functionalities well before eliciting requirements.
+
+,
+21)Monique is analyzing historical data to identify information relevant to her current project. Which type of elicitation is Monique utilizing?
+
+A. Experiments
+B. Research
+C. Document analysis
+D. Collaborative
+
+,
+22)You have completed the elicitation activity plan. You have prepared for and conducted a workshop to gather requirements. What is the typical next step that you would follow?
+
+A. Confirm your elicitation results and communicate as appropriate
+B. Record the results from the workshop so that they can be confirmed
+C. Specify and model the requirements
+D. Send meeting notes out to all attendees
+
+,
+23)You are eliciting requirements by analyzing historical data to identify trends. What task are you performing?
+
+A. Data mining
+B. Confirm elicitation results
+C. Conduct elicitation
+D. Document analysis
+
+,
+24)In order to conduct elicitation, what guidelines and tools will you need?
+
+A. Business analysis approach, existing business analysis information, stakeholder engagement approach, and the elicitation activity plan
+B. Business analysis approach, elicitation activity plan, stakeholder engagement approach, and supporting materials
+C. Business analysis approach, existing business analysis Information, stakeholder engagement approach, and supporting materials
+D. Elicitation activity plan, existing business analysis information, stakeholder engagement approach, and supporting materials
+
+,
+25)You are the business analyst on an initiative and you are preparing for elicitation of a new business opportunity. What is the prerequisite for conducting elicitation?
+
+A. You need to ensure that all needed resources are organized and scheduled for conducting the elicitation activities.
+B. You need authority granted to you from the sponsor to utilize resources for the elicit requirements process.
+C. You need to receive permission from functional management to interview and elicit requirements for the stakeholders.
+D. You need to determine which elicitation techniques are needed for requirements gathering.
+
+,
+26)Paige works in the IT department for a financial institution. She may be needed to provide approval for aspects of the business analysis approach, especially in organizations where the business analysis process is audited. She may also require that specific stakeholder representatives or groups be involved in the business analysis activities. What type of stakeholder is Paige?
+
+A. Regulator
+B. Sponsor
+C. Executive board
+D. Project manager
+
+,
+27)Which of the following lists contain valid requirements attributes?
+
+A. "Author, source, class, complexity "
+B. "Performance, interface, quality glossary "
+C. "Priority, source, status, urgency "
+D. "Unambiguous, testable, complete, understandable "
+
+,
+28)Gwen is monitoring and controlling the progress and performance of the business analysis work and planning improvement processes where required. Which of the following guidelines would be beneficial for Gwen in this case?
+
+A. Legal/regulatory information
+B. Organizational performance standards
+C. Business policies
+D. Accuracy and completeness
+
+,
+29)Which of the following statements is accurate about adaptive approaches?
+
+A. "In an adaptive approach, planning may be done, but it is not essential. "
+B. In an adaptive approach, mandatory requirements are often limited to a prioritized requirements list.
+C. Adaptive approaches typically call for formal documentations and representations.
+D. In an adaptive approach, tasks are performed in specific phases.
+
+,
+30)XYZ is a new organization that uses agile methodology. The organization is looking for an easy way to share business analysis information. The stakeholders decide on a whiteboard. Is this a viable solution?
+
+A. "Yes; a whiteboard is a viable information management tool. "
+B. No; information management tools must enable the reuse of business analysis information.
+C. "No; the information shared on whiteboards can be too easily altered or erased and so is too risky. "
+D. "Yes; stakeholders involved in the project are in the best position to determine how to share business analysis information. "
+
+,
+31)Shirin has been engaged as a Business Analyst in an IT transformation project. While discussing the stakeholder analysis and engagement approach with the Project Manager, they have informed Shirin that since the vendor for this project is using a fixed-price model, the vendor team will be reluctant to do extra work if there is any scope creep during the execution of this project. As a Business Analyst what should Shirin do as a immediate next step?
+
+A. "Plan to elicit scope and requirements early to avoid any scope creep. "
+B. Suggest that the Project Manager review the vendor's pricing model and ask the vendor to change their pricing model to avoid the risk of scope creep.
+C. Understand the vendor's pricing model and note that any scope creep on the project will be a risk and must be managed as such.
+D. "Have a discussion with the Sponsor about the vendor's pricing model and the potential scope creep risk. "
+
+,
+32)At what point in the project timeline would the BA typically modify the business analysis plans?
+
+A. "After each stakeholder interview "
+B. "After the initial risk assessment but before the division of work strategy "
+C. "After performance metrics have been collected and analyzed "
+D. "When requested to do so by the project manager "
+
+,
+33)Which of the following is included within the business analysis approach?
+
+A. Workshops
+B. "The timing and the sequence of the business analysis work "
+C. "Methodologies and frameworks "
+D. "Corrective and preventive actions "
+
+,
+34)In which artifact would the proposed approaches to address issues be found?
+
+A. "Business analysis performance assessment "
+B. "Information management approach "
+C. "Business analysis issue log "
+D. "Item tracking "
+
+,
+35)When should the timing of business analysis work be identified?
+
+A. "After the business analysis approach document is approved and the development of a detailed plan can begin. "
+B. "After resource leveling to ensure required resources will be available. "
+C. "At the point when estimates are needed to realize efficiencies from just-in-time planning. "
+D. "When planning the overall business analysis approach. "
+
+,
+36)Stakeholder management includes the process required to identify the people, groups, or organizations that could impact or be impacted by the initiative. Which set of stakeholders accurately represents those that would be involved in the business analysis planning and monitoring knowledge area?
+
+A. Domain subject matter expert, tester, project manager, regulator, sponsor, customer, end user, supplier.
+B. Domain subject matter expert, project manager, regulator, sponsor, customer, end user, supplier.
+C. Domain subject matter expert, project manager, supplier, regulator, sponsor, customer, end user, implementation subject matter expert.
+D. "Project manager, regulator, sponsor, customer, end user, supplier, domain subject matter expert, operational support. "
+
+,
+37)You are a Business Analyst of a construction project. The Project Management team is currently engaged in a meeting to decide whether the work related to building two swimming pools in a posh residential complex area will be managed in-house or outsourced to a preferred vendor. Based on this decision, you may need to change your plan of carrying out your business analysis activities in this project. In which of the following tasks are you currently engaged?
+
+A. "Plan business analysis approach "
+B. "Prepare for elicitation "
+C. "Plan business analysis governance "
+D. "Analyze current state "
+
+,
+38)Rohan has been working as a Business Analyst on a City Transportation project. He has recently identified a list of stakeholders who are directly and indirectly impacted by the change or who can influence the project. Rohan now wants to identify where and how each stakeholder will contribute to the initiative. What next step should Rohan take to obtain this information?
+
+A. "Obtain additional information about the roles of each identified stakeholder on the list. "
+B. "Observe the stakeholders to see if they have positive or negative attitude towards this project. "
+C. Study the Organizational Chart thoroughly to gain insight as to how the stakeholders fit into the organization.
+D. "Collect the contact details of each stakeholder so that he can reach out to them to learn more about them. "
+
+,
+39)You are developing an approach for how business artifacts will be stored, accessed, and shared. Which set of stakeholders would you involve in this task?
+
+A. "Project manager, domain subject matter expert, regulator, sponsor. "
+B. "Domain subject matter expert, regulator, sponsor. "
+C. "Sponsor, domain subject matter expert, regulator, customer. "
+D. "Domain subject matter expert, tester, regulator. "
+
+,
+40)A business analyst wants to assess the business analysis work and plan improvement processes where necessary. Which task should be completed before attempting this activity?
+
+A. "Performance analysis "
+B. "Plan business analysis governance "
+C. "Plan business analysis information management "
+D. "Plan business analysis approach "
+
+,
+41)Akira is closely managing particular stakeholders who can impose their own requirements for how business analysis information should be managed during the governance process. Which stakeholders are they?
+
+A. Regulators
+B. "Domain subject matter experts "
+C. "Project managers "
+D. Sponsors
+
+,
+42)Whitney is a BA working to identify quantitative and qualitative measures in order to identify performance improvements related to her business analysis work. Identifying quantitative measures was relatively easy; qualitative measures are proving to be more difficult. You are a senior BA assigned as Whitney's mentor; which of the following measures do you suggest?
+
+A. "Frequency of changes to work products "
+B. "Delivery dates of work products "
+C. "Effectiveness of work products "
+D. "Accurate estimates related to work products "
+
+,
+43)Rohan has been working as a Business Analyst on a City Transportation project. He has recently identified a list of stakeholders who are directly and indirectly impacted by the change or who can influence the project. Rohan now wants to identify where and how each stakeholder will contribute to the initiative. What next step should Rohan take to obtain this information?
+
+A. Observe the stakeholders to see if they have positive or negative attitude towards this project.
+B. Obtain additional information about the roles of each identified stakeholder on the list.
+C. "Collect the contact details of each stakeholder so that he can reach out to them to learn more about them. "
+D. "Study the Organizational Chart thoroughly to gain insight as to how the stakeholders fit into the organization. "
+
+,
+44)Paige works in the IT department for a financial institution. She may be needed to provide approval for aspects of the business analysis approach, especially in organizations where the business analysis process is audited. She may also require that specific stakeholder representatives or groups be involved in the business analysis activities. What type of stakeholder is Paige?
+
+A. "Executive board "
+B. Sponsor
+C. "Project manager "
+D. Regulator
+
+,
+45)Which of the following lists contain valid requirements attributes?
+
+A. "Priority, source, status, urgency "
+B. "Author, source, class, complexity "
+C. "Unambiguous, testable, complete, understandable "
+D. "Performance, interface, quality glossary "
+
+,
+46)Stakeholders' attitudes can positively or negatively impact a change. It is therefore very important for the business analyst to develop and document a plan on how to effectively engage with each key stakeholder group. Which of the following work products would help document the plans?
+
+A. "Stakeholder communications plan "
+B. "Stakeholder collaboration plan "
+C. "Power/interest grid "
+D. "Online communities and wikis "
+
+,
+47)Business analysis performance assessments help identify opportunities for future improvement. For maximum benefit, when should performance analysis occur?
+
+A. "Throughout the life cycle of an initiative "
+B. "At the beginning of every sprint "
+C. "During retrospectives "
+D. "When carrying out closing processes "
+
+,
+48)Adam has been asked to step in and help with an initiative that is having some problems. He has found that the decision makers lack important information needed for decision making. It is not clear how requirements and designs are integrated with other information for long-term use, and stakeholders do not understand what is expected of them or what they can expect from the business analyst. Worse still, it is very difficult to measure and assess how well the business analysis work is being done. What would be the root cause of these problems?
+
+A. "It is very likely that the business analyst on the initiative lacks certification in business analysis as a professional. "
+B. "The initiative has no subject matter expert (SME) and most of the team members are new. "
+C. "The initiative is using an adaptive approach that focuses on rapid delivery with a higher degree of uncertainty. "
+D. "Key planning and monitoring tasks that produce key guidelines for other tasks were not carried out. "
+
+,
+49)Regarding the element stakeholder communication needs, the business analyst must consider the __________ of stakeholders.
+
+A. "Geographic location "
+B. "Elemental attitude "
+C. "Primary language "
+D. Multi-location distribution
+
+,
+50)Which of the following outputs will identify the stakeholders who will be responsible for setting priorities?
+
+A. "Stakeholder engagement approach "
+B. "Business analysis performance strategy "
+C. "Governance approach "
+D. "Information management approach "
+
+,
+51)The performance of all business analysis activities are directed by which of the following documents?
+
+A. "Governance approach "
+B. "Business analysis approach "
+C. "Information management approach "
+D. "Business analysis body of knowledge (BABOK) "
+
+,
+52)Which guideline or tool would help in defining the limits within which decisions must be made?
+
+A. "Current state description "
+B. "Business analysis performance assessment "
+C. "Business policies "
+D. "Legal/regulatory information "
+
+,
+53)"Before any business analysis performance changes are implemented, who should be consulted to assess how they might impact the initiative?
+
+A. " Sponsor
+B. "Project manager "
+C. "Domain subject matter experts "
+D. "Implementation subject matter experts "
+
+,
+54)Which of the following guidelines/tools is used for improved assessment of stakeholder impact and the development of more effective stakeholder engagement strategies?
+
+A. "Business policies "
+B. "Change strategy "
+C. "Methodologies and frameworks "
+D. "Business analysis performance assessment "
+
+,
+55)What does the Business Analysis Body of Knowledge contain?
+
+A. "The sum of knowledge within the profession of Business Analysis and what is considered currently accepted practice. "
+B. The definitive sequence of tasks that business analysts perform to properly analyze or evaluate the necessity of a change to reach business objectives.
+C. "Best practices in the industry. "
+D. "The standards and methodologies to which all business analysts should adhere. "
+
+,
+56)Which type of models can be used to define and document the business analysis approach?
+
+A. Process
+B. Scope
+C. Data
+D. Object
+
+,
+57)Planning stakeholder engagement, in normal circumstances, is a task carried out by the business analyst. This task may be shared with which other project team member?
+
+A. Peers
+B. "Business subject matter expert "
+C. "Project manager "
+D. Sponsor
+
+,
+58)In order to plan the most effective business analysis approach, the BA must take into consideration which of the following?
+
+A. "Outputs from the business analysis performance assessment "
+B. "Information management tools "
+C. "Available metadata "
+D. "The amount of time the BA has allocated to the initiative "
+
+,
+59)A business analyst is defining how decisions about requirements and designs will be made. Which of the following techniques could be used to generate a list of potential approvers?
+
+A. "Mind mapping "
+B. "Document analysis "
+C. "Decision modeling "
+D. Brainstorming
+
+,
+60)You are the business analyst on an initiative and you are preparing for elicitation of a new business opportunity. What is the prerequisite for conducting elicitation?
+
+A. You need to determine which elicitation techniques are needed for requirements gathering.
+B. "You need to receive permission from functional management to interview and elicit requirements for the stakeholders. "
+C. You need authority granted to you from the sponsor to utilize resources for the elicit requirements process.
+D. "You need to ensure that all needed resources are organized and scheduled for conducting the elicitation activities. "
+
+,
+61)When is the best time for a business analyst to specify and model requirements during the elicitation and collaboration knowledge area?
+
+A. "While executing confirm elicitation results. "
+B. While preparing the business analysis information package as an input to communicate business analysis information.
+C. "Whenever it would add value to elicitation and collaboration tasks. "
+D. "Requirements should not be specified and modeled until after they are confirmed. "
+
+,
+62)Stacy is working on an IT change initiative which will replace the current time-consuming process of data transfer from Appl-A to Appl-B by a faster data transfer process. Stacy has been working with the development team to experiment with different data transfer approaches to understand the advantages and disadvantages of the various approaches. She will then hold a workshop to share those results with a select group of business stakeholders to get their input on the best approach to use for the solution. Which task Stacy is performing?
+
+A. "Prepare for elicitation. "
+B. "Define design options. "
+C. "Conduct Elicitation. "
+D. "Conduct a proof of concept. "
+
+,
+63)Which of the following techniques would be best suited to identify how to evaluate the quality of the requirements?
+
+A. "Verify requirements "
+B. "Acceptance and evaluation criteria "
+C. Reviews
+D. "Metrics and key performance indicators (KPIs) "
+
+,
+64)The following are some of the factors a business analyst would consider to establish the level of decomposition and the level of detail to be specified while conducting information decomposition. Which is NOT?
+
+A. "Schedule and budget allocations. "
+B. "Organizational standards. "
+C. "Contractual or regulatory obligations. "
+D. "Knowledge and understanding of the stakeholders. "
+
+,
+65)Which of the following LEAST describes why an activity diagram may be utilized?
+
+A. "An activity diagram utilizes business process model and notation (BPMN) so it can distinguish the activities of different participants in a process with either pools or swim lanes. "
+B. "An activity diagram can elaborate on a single use case. "
+C. An activity diagram facilitates the identification of potential improvements by highlighting "pain points" in the process structure.
+D. "An activity diagram is effective at showing how to handle a large number of scenarios and parallel branches. "
+
+,
+66)What characteristic of a quality requirement is missing in this requirement: "The call center operator shall be able to view details of a protected household"?
+
+A. Complete
+B. Concise
+C. Understandable
+D. Consistent
+
+,
+67)Gieson is analyzing and refining the elicitation results into requirements. He wants to use a technique that will help his stakeholders (customers) describe the goal they want to accomplish when using the solution. What technique would Gieson use?
+
+A. "Scope modeling "
+B. "Use cases and scenarios "
+C. "Organizational modeling "
+D. "User stories "
+
+,
+68)"Once the requirements are verified, what task might a business analyst perform, provided that other inputs required by the task are also available?"
+
+A. "Approve requirements "
+B. "Validate requirements "
+C. "Define design options "
+D. "Identify improvement opportunities "
+
+,
+69)Laura, a junior business analyst, has finished detailing a set of requirements using analytical techniques. She now wants to elicit, model, and analyze the design, but she is wondering what techniques she would use for this activity. What would you advise her?
+
+A. Since the developers and testers will be using her requirements she should collaborate with them to come up with the best techniques to use.
+B. "The business analyst can only specify and model requirements and not designs. "
+C. "Requirements and designs use the same techniques to specify and model. "
+D. "The business analyst does not create designs but reviews them to ensure they align with the requirements. She should therefore package her artifacts, obtain signoff, and pass them on to a design architect. "
+
+,
+70)Carmen has been hired as the senior business analyst on an ongoing effort. Initial elicitation activities have been done, and she is now determining the best way to transform and represent the elicitation results into requirements in order to define the change. What would Carmen consider when modeling the requirements?
+
+A. "Change, need, and context "
+B. "Purpose, change, and context "
+C. "Solution, audience, and value "
+D. "Context, audience, and purpose "
+
+,
+71)What are the three typical components of a user story?
+
+A. "Who? What? How? "
+B. "Who? What? Why? "
+C. "Who? What? When? "
+D. "What? When? Why? "
+
+,
+72)Rebecca is structuring the requirements to ensure all requirements form a single whole that supports overall business objectives and produce meaningful outcome for the stakeholders. Which of the following would NOT be a consideration for Rebecca?
+
+A. "Template architectures "
+B. Completeness
+C. "Requirements allocation "
+D. "Requirements viewpoints and views "
+
+,
+73)"Julian is a BA working on a project to create a new subscription management system for Nord Oest Magazines. The team has developed the data and navigation to handle the various entities and states in the diagrams below. The application can accept new and trial subscriptions, process payments, and inactivate subscriptions. During the current iteration of the effort, Julian is sensing that the team is missing some key requirements. Which state is Julian missing in the models for this situation?"
+
+A. "Cancelled Subscription, which is a valid state for any subscription. "
+B. "Rejected Subscription, because of a payment not being approved. "
+C. "Suspended Subscription, when a payment is not approved. "
+D. "Former Subscription, which is implied in the diagram. "
+
+,
+74)"Julian is a BA working on a project to create a new subscription management system for Nord Oest Magazines. The team has developed the data and navigation to handle the various entities and states in the diagrams below. The application can accept new and trial subscriptions, process payments, and inactivate subscriptions. During the current iteration of the effort, Julian is sensing that the team is missing some key requirements. Julian has discovered that the subscription management staff frequently change addresses for customers who have two residences. To facilitate address changes they would like to allow saving an alternate address for a subscription. How should Julian handle this?"
+
+A. "Add attributes in the Individual entity to permit saving an alternate address. "
+B. Add a separate Address entity and tie it to Individual in a one-to-many relationship.
+C. "Consult with an implementation SME such as a database analyst on how to handle this. "
+D. "Reject the request since there is only one address allowed per subscription. "
+
+,
+75)"Julian is a BA working on a project to create a new subscription management system for Nord Oest Magazines. The team has developed the data and navigation to handle the various entities and states in the diagrams below. The application can accept new and trial subscriptions, process payments, and inactivate subscriptions. During the current iteration of the effort, Julian is sensing that the team is missing some key requirements. Overall, what major functionality would you say is missing from the requirements as they are modeled?"
+
+A. "Ability to capture email marketing permission from subscribers. "
+B. "Renewing an active subscription. "
+C. "Suspending a subscription. "
+D. "Validating credit card payments for subscriptions. "
+
+,
+76)Kevin wants to model the rationale or the 'why' of a particular change. Which technique might he use to accomplish this task?
+
+A. "Stakeholder list, map, or Personas. "
+B. "Process modeling. "
+C. "Scope modeling. "
+D. "User stories. "
+
+,
+77)Will has been responding to several questions about the solution requirements from confused developers. What is the most likely cause of the confusion?
+
+A. "The requirements were not validated before handing them over for development. "
+B. The developers were just assigned to the project and haven't reviewed requirements and design documentation.
+C. "Will neglected to include the developers in modeling efforts so are trying to catch up. "
+D. "The requirements were seemingly ambiguous and so most likely weren't verified. "
+
+,
+78)XYZ is an new organization that uses agile methodology. The organization is looking for the best solution for project team collaboration and artifacts storage. Marcus has been hired as a business analyst and is tasked with carrying out an analysis between using a Confluence site vs. a SharePoint site. Which of the following is best suited to his needs?
+
+A. "State diagrams "
+B. Models
+C. Notations
+D. Matrix
+
+,
+79)Carla and her team have identified and defined the potential value for three design options. What is their logical next step?
+
+A. "Assess potential vendors. "
+B. "Analyze each option's potential value and ultimately recommend a solution. "
+C. "Determine whether to ""make"" or ""buy."" "
+D. "Model the design options so they are readily understood by the architect and development team. "
+
+,
+80)"You are assigned to a project to help re-engineer a bank's statement processing. Another team member showed you this diagram of what he had modeled. He said the scope of the project is concentrated around the items shown. However, you are not familiar with this type of diagram. A different team member questions the Post Transaction and Report Transaction attributes in the Transaction box. What is the correct response?"
+
+A. The other teammate is correct and the two items are probably misnamed attributes.
+B. "The other teammate is correct and the two items are actually other classes related to the given class. "
+C. "The other teammate is incorrect because names below the line on a class diagram represent operations. "
+D. "The other teammate is incorrect because names below the line on a class diagram represent foreign keys. "
+
+,
+81)"You are assigned to a project to help re-engineer a bank's statement processing. Another team member showed you this diagram of what he had modeled. He said the scope of the project is concentrated around the items shown. However, you are not familiar with this type of diagram. The business expert wants to make sure that statements can be produced at least monthly or quarterly. What do you tell her?"
+
+A. "A business rule would state the timing of statement production. "
+B. "Another type of model would be the one to dictate how often statements are produced. "
+C. "You need to see other documentation to be sure. "
+D. "There is nothing in the model to limit how often statements are produced. "
+
+,
+82)How is the solution core concept in the Business Analysis Core Concept Model applied in the requirements analysis and design definition knowledge area?
+
+A. "The performance of the solution is examined and assessed to see if it is delivering the potential value. "
+B. Potential solution options are defined and the one that is most likely to address the need and has the most value is recommended.
+C. "The circumstances that influence and provide understanding of the change are considered when determine solution performance measures. "
+D. "Potential value of the solution options are analyzed and quantified. "
+
+,
+83)Non-functional requirements analysis is a stated technique for which of the following tasks in the Requirements Analysis and Design Definition knowledge area?
+
+A. "Define Design Options "
+B. "Prioritize Requirements "
+C. "Specify and Model Requirements "
+D. "Verify Requirements "
+
+,
+84)Early identification and involvement of people, groups, or organizations that may impact or be impacted by a project is critical for the project success. Business analysts may choose to perform this task themselves and then separately package and communicate the requirements to the impacted/impacting people for review. Which task is this?
+
+A. "Define requirements architecture "
+B. "Define design options "
+C. "Specify and model requirements "
+D. "All tasks "
+
+,
+85)What is the primary difference between requirements and designs?
+
+A. "Requirements are documented in models at which point they become a design. "
+B. "Requirements and designs are synonyms and can be used interchangeably. "
+C. "Requirements are the responsibility of the BA; designs are the responsibility of design architects. "
+D. "It depends how they are being used and by whom. "
+
+,
+86)Which of the following data models is typically used by implementation subject matter experts to describe how a database is physically organized?
+
+A. "Physical data model "
+B. "Multi-variable data model "
+C. "Conceptual data model "
+D. "Logical data model "
+
+,
+87)IDEF, BPMN, and IGOE are types of notations utilized in which of the following models?
+
+A. "State models "
+B. "Conceptual models "
+C. "Data models "
+D. "Process models "
+
+,
+88)You have interviewed key stakeholders to uncover their business needs. You become aware of many factors that the stakeholders think are true, but which have not been verified. You decide to document which of the following:
+
+A. Requirements
+B. Constraints
+C. "To-be processes "
+D. Assumptions
+
+,
+89)Not every process analyzed will be transformed by a software solution, so processes that are flagged in the design plan as not being a candidate for automation will not undergo further elaboration during the technical design. With that premise, which of the following statements is NOT true?
+
+A. The business analyst and the process owner may have determined new manual steps that may streamline and improve the current process.
+B. "The business analyst should present recommendations to the appropriate project stakeholders to determine if proposed improvements should be considered for implementation. "
+C. The business analyst should refrain from documenting recommendations to transform the process that are outside the scope of software automation.
+D. "The business analyst will have decomposed and modeled the process and identified new procedures. "
+
+,
+90)As a business analyst, you are given the following elicitation information: "The database shall support the generation and control of configuration objects, and the objects are themselves groupings of other objects in the database." Why would decomposing the above information be critical you?
+
+A. "Information decomposition would help identify anything that must change or not change to meet the business need or any missing components. "
+B. "Information decomposition should be avoided as it takes more time and may lead to project delay. "
+C. "Information decomposition would prove that the business analyst is well experienced and this would give the stakeholders confidence. "
+D. "Information decomposition does away with all assumptions as it is done on the actual project. "
+
+,
+91)The project team is currently working on validating requirements. The following are the names of the stakeholders on the team: Business analyst - Giewel and Gieson; Implementation SME - Cheryl; Project Manager - George; End Users - Jane and Juliet; Customer - Jeremy; Sponsor - Jean. Which stakeholders have the primary responsibility for ensuring the requirements are valid?
+
+A. "Giewel, Gieson, Jeremy, Jane, Juliet, Jean. "
+B. "Giewel, Gieson, George, Jane, Juliet, Jean "
+C. "Giewel, Gieson, Jeremy, Cheryl, George, Jean "
+D. "Giewel, Gieson, Jeremy, Cheryl, Jean "
+
+,
+92)You have been assigned to specify requirements as a brief statement about what people do or need to do when using the solution. Which one of the following criteria is NOT part of your activity?
+
+A. A short description of the solution capability that provides value to the stakeholder.
+B. "One to two sentence stories that allow the developer to estimate the work required for implementation. "
+C. "High-level information that is informal. "
+D. "Detailed information in the form of a story that allows the developer to build through several releases. "
+
+,
+93)"The lead business analyst has engaged you to outline the design possibilities that would satisfy a set of requirements in the project. Which set of activities is the lead business analyst involved in?
+
+A. "Defining Solution Approaches, Identifying Improvement Opportunities, Requirements Allocation, Describing Design Options.
+B. Analyzing Current State, Defining Future State, Assessing Risks, Defining Change Strategy.
+C. "Determining Expected Benefits, Determining Expected Costs, Determining Value, Assess Design Options. "
+D. "Defining Solution Approaches, Identifying Improvement Opportunities, Requirements Allocation. "
+
+,
+94)Anna, a junior business analyst, is seeking your advice on how many models she should use to best meet stakeholders needs in a given context. What would you advise her?
+
+A. "Use the simple models to get the job done easily and quickly. "
+B. "The business analyst does not make such decisions. Such decisions are made by solution architect and developers only. "
+C. "Using more than one model would create confusion and so should only use one to avoid confusing the stakeholders. "
+D. "Each modeling technique has strengths and weaknesses and provides unique insights into the business domain and so using several of them would complement one another. "
+
+,
+95)How is a glossary different than a data dictionary?
+
+A. "A glossary defines all terms used within an initiative while a data dictionary defines only terms relevant to data modeling. "
+B. "They are the same and can be used interchangeably depending upon the organization's culture. "
+C. "They both define key terms relevant to the solution. "
+D. "A glossary defines key terms relevant to the business domain while a data dictionary standardizes a definition of a data element. "
+
+,
+96)Data about data can best be described as what?
+
+A. "Data model "
+B. Metadata
+C. Entities
+D. Attributes
+
+,
+97)Thomas is the lead business analyst on a project that has complex requirements. To ensure stakeholders understand the requirements and provide input and feedback early in the design process, Thomas recommends to use which of the following techniques?
+
+A. "Organizational modeling. "
+B. "Acceptance and Evaluation Criteria. "
+C. "User stories. "
+D. Prototyping
+
+,
+98)Which of the following describe common non-functional requirement categories?
+
+A. "Reliability, compatibility, scalability, dependability "
+B. "Reliability, compatibility, scalability, localization "
+C. "Reliability, readability, scalability, localization "
+D. "Reliability, availability, scalability, traceability "
+
+,
+99)Marie is required to show how elements work in harmony with one another to support the business requirements, and to structure the elements in various ways to align the viewpoints of different stakeholders. What techniques would be useful?
+
+A. "Workshops, interviews, organizational modeling, functional decomposition, interface analysis, data modeling. "
+B. "Interface analysis, workshops, interviews, organizational modeling, functional decomposition, acceptance criteria. "
+C. "Workshops, scope modeling, interviews, organizational modeling, functional decomposition, data modeling. "
+D. "Workshops, scope modeling, interviews, organizational modeling, functional decomposition, SWOT analysis, data modeling. "
+
+,
+100)"The lead business analyst and the project team have come up with three design options that would potentially achieve the desired future state. She needs an expert to provide input about the constraints and cost implications of each option. Who would be the BEST person to provide guidance?"
+
+A. "Operational support "
+B. "Domain subject matter expert "
+C. "Implementation subject matter expert "
+D. Supplier
+
+,
+101)Jesse is a business analyst in an agile environment. The developer has raised issues with the proposed solution, stating there may be a risk that the solution is not technically feasible. Jesse advises the stakeholders to prioritize the requirements and put the riskiest ones at the top of the list. What is the rationale behind Jesse's guidance?
+
+A. "Mitigate the risk as early as possible to lessen probability and minimize impact. "
+B. "To ensure adequate time to fix the problem should it occur. "
+C. "Minimize the resources that are spent before learning that a proposed solution cannot be delivered. "
+D. "To implement a proof of concept to ensure the solution is technically feasible. "
+
+,
+102)You are working on a team that is adding a new line of insurance to your company's claims system. Conflicts have arisen among many of the stakeholders as a result of different interpretations of requirements for the new line as well as conflicting values placed on their value. Which stakeholder would you recommend to facilitate communication between stakeholders to resolve the areas of conflict so that each group has an improved appreciation for the needs of the others?
+
+A. "Business analyst "
+B. "Human resources "
+C. Sponsor
+D. "Project manager "
+
+,
+103)You are the business analyst on an initiative. You have completed requirements elicitation and documentation, and are in the process of reviewing the requirements in order to obtain sign-off. John, one of the approving stakeholders, just joined the company and requests a way to accurately assess alignment and completeness of requirements. Which of the following items would you provide to John?
+
+A. "Requirement management tools/repository "
+B. "Legal/regulatory information "
+C. "Conflict and consensus management "
+D. "Solution scope "
+
+,
+104)Greg is working on getting his requirements approved. Which stakeholder is responsible for ensuring that the requirements meet quality assurance standards?
+
+A. "Regulator "
+B. "Operational support "
+C. "Project manager "
+D. Tester
+
+,
+105)Sanjay just met with one of his stakeholders who wants to add two new requirements to a solution after it had been signed off the previous week. In addition, the new requirements did not match the overall scope of the solution. However, Sanjay was convinced that the developers could easily handle the two new requirements so he passed them on to the development team. What should Sanjay have done?
+
+A. "Update the business requirements document and ask for signoff again. Once signoff is given the new requirements can be handed off to development. "
+B. "Put the new two requirements into a future phase for delivery. "
+C. "Get approval to change the scope of the solution from whomever has the authority to approve changes and add the new requirements. "
+D. "Nothing different, since the developers could easily handle the new requirements this approach was okay. "
+
+,
+106)Three of the following statements are inaccurate about prioritization. Which one is accurate?
+
+A. "Once the implementation team has provided the cost of each requirement, requirements are baselined and prioritization is complete. "
+B. Stakeholders may intentionally indicate priority to influence the result to their desired outcome.
+C. "Prioritization is an assessment of absolute value. Each stakeholder may value something different. "
+D. "Stakeholders are sometimes rigid, and priorities are unlikely to shift as the context evolves and as more information becomes available. "
+
+,
+107)Which of the following statements is true regarding tasks a business analyst may perform while evaluating the necessity for change within an enterprise?
+
+A. "Tasks a business analyst performs may vary in form, order, or importance for various initiatives. "
+B. The business analyst should perform tasks in the order prescribed by the BABOK in order for organizations to realize value.
+C. The business analyst needs sponsor approval for and stakeholder collaboration on the tasks they deem necessary for various initiatives.
+D. "Tasks a business analyst performs should be completed in an orderly and formal manner. "
+
+,
+108)"Which of the following techniques can be used to help define the solution scope?"
+
+A. "Functional decomposition "
+B. "Cost-benefit analysis "
+C. "Root cause analysis "
+D. "Work breakdown structure "
+
+,
+109)"Miriam is a BA who is working to improve the ability of the help desk to resolve more end-user issues on the first call. She has documented year-to-date first call resolution rates and is working on identifying the root cause for calls needing escalation to other support groups. During her analysis, she receives first call resolution results for the last two reporting periods that show marked improvement from her baselined year-to-date results. What's most likely happening?
+
+A. " The help desk obtained new resources that were more knowledgeable and therefore could resolve more calls initially.
+B. "The original year-to-date results were most likely flawed. "
+C. "There was a software update and the help desk was flooded with calls that were easy to resolve. "
+D. "There are most likely internal and external influencers at play that are altering the current state. "
+
+,
+110)"Miriam is a BA who is working to improve the ability of the help desk to resolve more end-user issues on the first call. She has documented year-to-date first call resolution rates and is working on identifying the root cause for calls needing escalation to other support groups. During her analysis, she receives first call resolution results for the last two reporting periods that show marked improvement from her baselined year-to-date results. What is Miriam's best next step before continuing with root cause analysis?"
+
+A. Report to the sponsor that the problem is improving on its own and that pursuing the initiative isn't cost-effective at this point.
+B. "Research what, if anything, in the environment changed to understand the cause for the marked improvement. "
+C. "Double check the year-to-date results to ensure data precision and integrity. "
+D. "Modify root cause analysis activities to the categories of calls that were not resolved on the first call during the last two months. "
+
+,
+111)Functional decomposition can be used by a BA to analyze which type of scope?
+
+A. "Product scope. "
+B. "Organizational scope. "
+C. "Process scope. "
+D. "Project scope. "
+
+,
+112)How much detail should the solution scope contain?
+
+A. "The solution scope should be described in just enough detail to ensure the stakeholders understand what value will be delivered. "
+B. "The solution scope should be described in enough detail to effectively address the anticipated concerns of all key stakeholders, thus ensuring buy-in. "
+C. The solution scope should be described in enough detail to allocate resources to the project.
+D. "The solution scope should describe the boundaries of the solution. "
+
+,
+113)"Julie is a BA working to help a business owner clarify the business need. The business owner wants to undertake an initiative to eliminate waste throughout her division. She says that such an initiative, which will be comprised of multiple projects, will have the benefits of improved safety, reduced time to deliver the organization's product, and increased customer satisfaction. The listed benefits are another way of articulating which of the following?"
+
+A. "Business objectives "
+B. "Desired outcomes "
+C. "The business opportunity "
+D. "Future state description "
+
+,
+114)"Which techniques might you use during the assess risks task?"
+
+A. "Brainstorming, root cause analysis, variance analysis "
+B. "Brainstorming, financial analysis, lessons learned "
+C. "Brainstorming, benchmarking, lessons learned "
+D. "Brainstorming, functional decomposition, root cause analysis "
+
+,
+115)"Tamara works on projects using an adaptive approach and writes user stories to help the delivery team understand the requirements. Recently she was asked to work on a project using a more predictive approach. A colleague told her that she no longer would be writing user stories, since they are not used on more predictive approach projects. Tamara, however, thought that user stories would be helpful with which of the following tasks?"
+
+A. "Perform Gap Analysis. "
+B. "Analyze Current State. "
+C. "Specify and Model Requirements. "
+D. "Analyze Performance Measures "
+
+,
+116)"Tamara works on projects using an adaptive approach and writes user stories to help the delivery team understand the requirements. Recently she was asked to work on a project using a more predictive approach. A colleague told her that she no longer would be writing user stories, since they are not used on more predictive approach projects. Specifically, what would user stories help the team thoroughly define and understand?"
+
+A. "Non-functional requirements. "
+B. "Risk assessment. "
+C. "Acceptance Criteria. "
+D. "Prioritized functional requirements. "
+
+,
+117)Mary is a business analyst who has collaborated with stakeholders and successfully identified the primary root cause related to the business need. To fix the problem, she and her team have generated several alternative solutions including the forecasted financial costs and benefits associated with each option. However, the decision-maker still is not sold. What might be missing from Mary's presentation?
+
+A. "The costs and benefits associated with doing nothing. "
+B. "The root cause so the alternative solutions are lacking context. "
+C. "Net present value and internal rate of return. "
+D. "The business need so they know what problem they are trying to solve. "
+
+,
+118)Ryan is a BA working on gathering information for a business case. He is using benchmarking studies of the competition. He has determined that the potential risks associated with implementation are roughly the same as the expected value. Which of the following would Ryan most likely recommend?
+
+A. "Seek ways to increase solution value that will outweigh the risks. "
+B. "Recommend the organization not pursue the change. "
+C. "Pursue the change and invest in some risk mitigation. "
+D. "Pursue the change and its potential benefits regardless of the risk level. "
+
+,
+119)Rachel was just hired as a BA from an organization where she was instrumental in the identification and deployment of a particular Customer Relationship Management system and has a strong relationship with the vendor. The new organization is facing similar challenges as her previous employer and has asked her to accept the role of a BA on an initiative to address those challenges. She respectfully declined the role. Why is that?
+
+A. "She is concerned that this may represent a conflict of interest. "
+B. She is concerned that her previous experience may result in a sub-optimal recommendation.
+C. "She signed a non-compete agreement with her previous employer. "
+D. "She would like to work on something new to assist in career development. "
+
+,
+120)"Business analysts analyze the enterprise to assess its capacity to make the change and to sustain the change in the future state. What is this element called?"
+
+A. "Organizational capacity assessment "
+B. "Organizational readiness assessment "
+C. "Enterprise capacity assessment "
+D. "Enterprise readiness assessment "
+
+,
+121)"Jamey is working on a mobile banking initiative to allow customers to perform all deposit and withdrawal functions using a mobile phone. He is familiarizing himself with the organization's structure in order to better understand the current state environment. Why is reviewing the organizational structure so important to a change initiative?"
+
+A. "The reporting structure may aid or limit a potential change. "
+B. "So that stakeholders aren't overlooked in the elicitation process. "
+C. It will assist the business analyst in the recommendation of a sponsor for the change initiative.
+D. "So that the political impacts of transitioning to the future state are thoroughly understood. "
+
+,
+122)Which of the following is NOT a way to document a change strategy?
+
+A. "Product roadmap "
+B. "Project charter "
+C. "Strategic plan "
+D. "Business case "
+
+,
+123)How does a business analyst decide if a change strategy is needed?
+
+A. "When the organization needs to create missing or improve existing capabilities in order to achieve the future state. "
+B. "When an organization is moving from a current to future state. "
+C. When the organization needs to create missing capabilities to achieve the future state.
+D. "When the business analyst determines a change strategy would help the enterprise transition to its future state. "
+
+,
+124)"In what situation would a feasibility analysis be MOST useful?"
+
+A. "Resolving a business problem. "
+B. "Migrating critical applications to a cloud environment. "
+C. "When a sponsor places constraints on a solution option. "
+D. "Buying a COTS package. "
+
+,
+125)Policies, budget, time, and resource availability are all types of __________________ ?
+
+A. "Resources "
+B. Constraints
+C. Risks
+D. Capabilities
+
+,
+126)"An organization seeks to increase employee satisfaction within the next year. What is this an example of?"
+
+A. "Business objective "
+B. "Business goal "
+C. "Business requirement "
+D. "Potential value "
+
+,
+127)"A business analyst recommended a specific change strategy to reach the future state as part of a business case. The change strategy included several phases spanning two years, a cumulative quantitative financial analysis including a detailed costs and benefits analysis of the overall initiative, a timeline of each phase, resources needed for each phase, and organizational readiness assessment to make the change. The governance team reviewed their recommended change strategy and asked for more information. The business analyst is perplexed since they thought it was already too detailed. What might the recommendation be missing?"
+
+A. "The governance team was lacking alternatives with an associated analysis. "
+B. "The governance team was lacking resource utilization information. "
+C. The governance team was lacking information as to the costs and benefits associated with each phase or transition state.
+D. "The governance team was lacking an understanding of the total value this change initiative would provide. "
+
+,
+128)"A business analyst recommended a specific change strategy to reach the future state as part of a business case. The change strategy included several phases spanning two years, a cumulative quantitative financial analysis including a detailed costs and benefits analysis of the overall initiative, a timeline of each phase, resources needed for each phase, and organizational readiness assessment to make the change. The governance team reviewed their recommended change strategy and asked for more information. The business analyst is perplexed since they thought it was already too detailed. The business analyst supplemented the information, resubmitted the recommendation, and gained approval for the change strategy. However, it took twice as long to implement the strategy than forecasted because resources with the required knowledge were not available due to conflicting priorities. What did the business analyst fail to do as part of their recommendation?"
+
+A. The business analyst failed to negotiate with the required resources' managers for their time.
+B. "The business analyst neglected to state specifically the resources required to implement the solution in the business case. "
+C. The business analyst failed to develop a RACI matrix to define and assign implementation responsibilities.
+D. "The business analyst failed to perform an enterprise readiness assessment. "
+
+,
+129)"Which of the following types of risk tolerance would be most likely to need a risk mitigation strategy? "
+
+A. Risk averse
+B. "Risk-seeking "
+C. "Risk transferring "
+D. Neutrality
+
+,
+130)"Sam's recommendation was unanimously approved by the steering team. What really sold decision makers were the forecasted benefits of the future state he modeled with incredible detail. How will Sam utilize that forecasted potential value in the business analysis process? "
+
+A. "Sam assessed and reported the potential value in order to drive consensus among decision makers. Since consensus was reached, the primary purpose of the forecasted benefits has been fulfilled. "
+B. "Sam will ensure that all requirements and designs support the delivery of forecasted benefits. "
+C. "Sam will ensure that requirements and designs meet quality standards and are usable for the purpose they serve. "
+D. "Sam will define metrics and key performance indicators from which to measure solution performance once the future state is implemented. "
+
+,
+131)"Finn is a BA working on a newly implemented logistics process for a package supply company. He began gathering performance metrics on such things as how long the process took vs. how long to get output from one area to another, defects in the output, duplicate steps, number of complaints, etc. The department supervisor complained to Finn that gathering these statistics was a waste of time. She said she would rather he spend his time gathering requirements for automation to support the process. What rationale does Finn offer for his activities? "
+
+A. He needs to keep an eye out for defects so he can address them in a timely way to ensure customer satisfaction.
+B. "The gathered measurements will support the automation project. "
+C. "The information is needed as inputs into a SWOT analysis for the new automation project. "
+D. "He is working to understand and validate the value that was delivered by the implemented solution. "
+
+,
+132)"A relationship-oriented organization with several physical sites installed a system which includes a feature allowing users to share their screens and call each other through their computers. While assessing the solution, you notice users are still traveling to have face-to-face meetings with each other instead of utilizing the feature. You find they didn't even know about it! What most likely happened?"
+
+A. "The users didn't attend the training. "
+B. "The transition requirement around training was missed or poorly executed. "
+C. "The users prefer face-to-face meetings. "
+D. "It was a feature they never asked for so are resisting utilizing it. "
+
+,
+133)"A relationship-oriented organization with several physical sites installed a system which includes a feature allowing users to share their screens and call each other through their computers. While assessing the solution, you notice users are still traveling to have face-to-face meetings with each other instead of utilizing the feature. You find they didn't even know about it! What's the BA's next logical step?"
+
+A. Immediately ask permission to show the users how to use the feature knowing they'll spread the word! Add training to your official recommendation.
+B. Submit a recommendation to print instructions and distribute to users as quickly as possible.
+C. "Submit a recommendation to conduct on-site training sessions with follow-up coaching and mentoring. "
+D. "Submit a recommendation to conduct virtual training sessions demonstrating the feature. "
+
+,
+134)A solution architect has a paper prototype of the system for which you are the BA. She asks you to evaluate the solution to ensure it meets the defined measurements before she passes it on to the developers as she is going on vacation and won't be available for rework. How do you respond?
+
+A. "You trace the requirements to her design to provide confidence that the system will work. "
+B. "You advise her to talk to quality assurance as they will be conducting the tests. "
+C. "You suggest she build a working prototype for evaluation purposes before development. "
+D. "You advise that your first evaluation is scheduled after development and will let her know the results. "
+
+,
+135)Cheryl has just completed her analysis of a solution's performance measures that she collected to determine the value the solution provides to the enterprise. What will she do next?
+
+A. "Assess the solution limitations and identify the causes for the limitations. "
+B. "Determine if the measures are qualitative or quantitative. "
+C. "Create key performance indicators. "
+D. "Determine if the solution aligns with the goals and objectives. "
+
+,
+136)What are the guidelines and tools used to assess solution limitations?
+
+A. "Change strategy, risk analysis results, and solution scope "
+B. "Solution performance analysis, implemented solution, and solution limitation "
+C. "Interviews, decision analysis, and root cause analysis "
+D. "Impact assessment, component dependency identification, and problem investigation "
+
+,
+137)The corporate office of a financial services company recently locked into a new one-year health care plan, that while saving the organization a substantial amount of money for the year, significantly changed the terms of the employees' health care plans. That change was found to be the reason for a recent decrease in employee satisfaction. Upon discovery that the change in the health care plan caused lower employee satisfaction and considering all other factors, the BA recommended that the organization "do nothing." Was this the right recommendation?
+
+A. "No; the BA should recommend retiring the solution and introducing another that better meets employees' needs. "
+B. "No; the BA should recommend a way to enhance it to increase solution value. "
+C. "Yes; it is not feasible or even possible to change it. "
+D. "No; there is always something you can do. "
+
+,
+138)You are assessing the effectiveness of a new governance structure that was just put in place as part of a portfolio management program. One of the complaints from stakeholders is that decisions take too long to make. You discover that approvals involve review from three decision-making bodies that meet monthly before obtaining final approval from the sponsor and portfolio manager. You submit a recommendation to simplify this process by eliminating some of the back and forth. How would this recommendation be categorized?
+
+A. "Reducing complexity of interfaces. "
+B. "Identifying additional capabilities. "
+C. "Avoiding waste. "
+D. "Making organizational changes. "
+
+,
+139)"The target time for creating printable labels is 4 minutes per 100 labels. Current results range from 3.4 minutes to 7.8 minutes. What is the term which describes the discrepancy between expected and actual performance? "
+
+A. "Defect "
+B. Variance
+C. Error
+D. "Known errors "
+
+,
+140)After solution performance measures are defined, who is responsible to decide which measures are used to evaluating the solution performance?
+
+A. "Any stakeholder with decision-making authority. "
+B. "The sponsor. "
+C. "Project manager. "
+D. "The business analyst. "
+
+,
+141)Kay is a BA measuring the performance of a solution. Complaints about the solution have been increasing from end-users. She went into the project archives to obtain how the original stakeholders defined acceptable performance. Those criteria didn't seem to be the cause of the complaints however. Among other things, stakeholders weren't happy with the overall maintainability of the solution. What else could assist Kay in her analysis?
+
+A. "Functional requirements. "
+B. "Stakeholder requirements. "
+C. Understanding how the original stakeholders defined the expected characteristics of the solution.
+D. "Understanding how the original project objectives mapped to the business objectives at the time. Perhaps the business changed and the solution is no longer viable. "
+
+,
+142)A COO favors the purchase of a new, expensive system to take advantage of the vendor's year-end sales promotion. The organization isn't fully utilizing the current system and the BA recommends that the organization instead utilizes those capabilities. The COO isn't convinced, defers the recommendation, and asks the BA to keep working on it. What is the next logical step for the BA to take?
+
+A. "Perform a financial analysis given the new equipment is expensive. "
+B. "Negotiate decision criteria and ask the COO to assign weights to that criteria, then objectively score both systems. "
+C. "Negotiate decision criteria and objectively score both systems. "
+D. "Recommend taking advantage of the year-end sale given the fact that the COO obviously wants to go in that direction. "
+
+,
+143)A project team is piloting a new set of processes before full deployment. Barry is a BA who is evaluating the solution in terms of delivered value. He finds that stakeholders aren't engaging in the new processes and have instead reverted to the "old way" of doing things. What should Barry recommend?
+
+A. Conduct coaching and mentoring as a way to focus stakeholders on the new processes.
+B. "There's not enough information provided for a specific recommendation. "
+C. "Conduct more training as stakeholders probably don't understand the new processes. "
+D. "Create incentives so that stakeholders are more motivated to leave the ""old ways"" behind. "
+
+,
+144)Phil is a BA on a project and is planning activities to evaluate the solution. The project is planned to have a total of four releases approximately four to six months apart. Each release builds upon the functionality in the prior release. When should Phil plan the assessments?
+
+A. When there is indication that the solution isn't delivering expected value once deployed.
+B. "It depends; whenever warranted or Phil believes evaluation would lend value. "
+C. "When it would add value but minimally after each release. "
+D. "During each proof of concept, before delivery, and after deployment. "
+
+,
+145)"In order to obtain ISO certification, an organization created a Problem Management team. The team doesn't appear to be fitting in. Which of the following would be helpful regarding the assessment of this solution? "
+
+A. Enterprise culture assessment, organizational structure changes, operational assessment.
+B. "Organizational structure changes and stakeholder impact analysis. "
+C. "Enterprise culture assessment, stakeholder impact analysis, organizational structure changes, operational assessment. "
+D. "Organizational structure changes, stakeholder impact analysis, and operational assessment. "
+
+,
+146)"Delivery sales have been decreasing by 5% year-over-year for a company's bottled water offering. The water is delivered to a subscriber's door in 5-gallon plastic jugs which fit on top of a dispenser. This is a common product in the bottled water industry. Alan has been asked to assess the solution to understand the reason for declining sales as it has been the company's steady source of revenue. Alan found that as the population of the customer segment subscribing to this service aged, the 5 gallon jugs were simply too heavy to hoist onto the water dispenser causing them to cancel the service. Alan brainstormed potential solutions and immediately completed a financial analysis to understand the cost/benefit of manufacturing jugs that held 2.5 vs. 5 gallons. He was proud of the fact that the 2.5 gallon jugs could have the same neck and so would fit existing dispensers. His recommendation was to go ahead with the manufacture of the new jugs along with a ""win-back"" campaign for lost customers. What might he be missing in his recommendation? "
+
+A. "He needs to provide alternative actions in addition for consideration. "
+B. "Nothing is missing in his recommendation. Al's process and recommendation was right on! "
+C. "He needs to complete a risk analysis. "
+D. "He needs to provide decision makers with a view of what will happen if they do nothing. "
+
+,
+147)Deima is a BA assigned to the evaluation of a solution that isn't delivering value to the level forecasted during the project. She has gone into the project archives and is reviewing all available project documentation. Why is she doing that?
+
+A. She is primarily concerned with the solution requirements to ensure current performance measures are relevant.
+B. "She is working to understand the potential value of the solution. "
+C. "She is reviewing the project objectives to better understand what the solution was supposed to achieve. "
+D. "She is trying to familiarize herself with the stakeholders impacted by the solution. "
+
+,
+148)Steven works at an IT shop in North Carolina as a business analyst. He is in charge of determining what cultural changes are required to better realize value from an existing solution. What is the key action he is accomplishing for the organization?
+
+A. "Performing impact analysis "
+B. "Conducting needs analysis "
+C. "Performing cultural assessment "
+D. "Eliminating risks "
+
+,
+149)How can a BA meaningfully determine the value of a solution?
+
+A. By gaining a thorough understanding of the potential value that stakeholders hope to achieve with the solution.
+B. "By defining solution performance measures. "
+C. "By performing a financial analysis to ensure the benefit continues to outweigh the cost. "
+D. "By thoroughly analyzing the ""voice of the data."" "
+
+,
+150)When would the techniques of process modeling, observation, workshops, document analysis, and organizational modeling have the most value when assessing enterprise-related obstacles to realizing solution value?
+
+A. "Enterprise Culture Assessment. "
+B. "Stakeholder Impact Analysis. "
+C. "Assess Enterprise Limitations. "
+D. "Assess Solution Limitations. "
+
+,
+151)You are a BA trying to understand how the organization's structure will be impacted by a solution. What do you need to assess?
+
+A. "The organizational hierarchy. "
+B. "Alliances and matrix-reporting. "
+C. "Formal and informal relationships. "
+D. "Formal reporting structures. "
+
+,
+152)"The leaders of a retail store employing approximately 100 floor personnel have been hearing more complaints from employees during the last three months about difficult co-workers, not enough vacation time, scheduling policies, etc. In addition, three valuable employees have given their notice during the last two months. Raja has been asked to evaluate employee satisfaction. The organization has no current performance measures in place. What is the biggest benefit the chosen technique from the previous question would provide? "
+
+A. "It is rapid and produces reliable results. "
+B. "It would provide a qualitative baseline from which to measure improvement. "
+C. "It would allow Raja to ascertain if the information elicited from the focus group was representative of all personnel. "
+D. "It would provide a quantitative baseline from which to measure improvement. "
+
+,
+153)Lucas is a BA who is assessing a seemingly under-performing solution. What sorts of things can Lucas do to gain a thorough understanding of the potential value that was expected for this solution?
+
+A. "Lucas can ensure performance measures are asking the ""right"" things in the ""right"" way with the ""right"" frequency. "
+B. Lucas can assess the solution within the context of the enterprise's goals and objectives and key performance indicators.
+C. Lucas can evaluate and understand the potential value of this solution by comparing key performance indicators of similar solutions.
+D. "Lucas can understand the potential value the solution by measuring its current performance. "
+
+,
+154)Which of the following guidelines/tools is used for improved assessment of stakeholder impact and the development of more effective stakeholder engagement strategies?
+
+A. "Methodologies and frameworks "
+B. "Business analysis performance assessment "
+C. "Change strategy "
+D. "Business policies "
+
+,
+155)"Ashish is working on a project for XYZ Insurance to enable video submission of auto accident claims. He is specifying the conditions required to meet the business need for the effort. Ashish created the following diagram to help him understand the new process. What activity is Ashish performing? "
+
+A. "Modeling requirements for the process. "
+B. "Defining a value chain for the process. "
+C. "Defining the future state for the process. "
+D. "SIPOC modeling the process. "
+
+,
+156)"Ashish is working on a project for XYZ Insurance to enable video submission of auto accident claims. He is specifying the conditions required to meet the business need for the effort. Ashish created the following diagram to help him understand the new process. Which component is Ashish missing from his SIPOC diagram? "
+
+A. "A customer representing the claims database. "
+B. "An output of the attached video. "
+C. "An input for the vehicle involved in the accident. "
+D. "A process step for providing the claim receipt. "
+
+,
+157)"Ashish is working on a project for XYZ Insurance to enable video submission of auto accident claims. He is specifying the conditions required to meet the business need for the effort. Ashish created the following diagram to help him understand the new process. During a peer review of the SIPOC, a colleague of Ashish's commented that one of the process steps was unneeded in the diagram. Was he correct and if so, which one is unneeded? "
+
+A. "Enter Claim Details because the details are an input to the process. "
+B. "The colleague is not correct. All steps are needed. "
+C. "Record Video because it can be assumed to be a precondition of the process. "
+D. "Open XYZ Claim App because it can be assumed to be a precondition of the process. "
+
+,
+158)Which of the following statements is TRUE about specifying and modeling requirements?
+
+A. "Business requirements must be specified and modeled before any other type of requirements. "
+B. "Only stakeholder requirements and solution requirements can be specified at the same time. "
+C. "Different types of requirements might be specified and modeled at the same time. "
+D. "Transition requirements are always specified and modeled last. "
+
+,
+159)The business analyst has elicited and analyzed the business case, business need, requirements management plan, and the stakeholder list. The business analyst will be starting to determine the relative importance of each requirement for implementation. What is the output of the task the business analyst is currently working on?
+
+A. "Validated requirements "
+B. "Allocated requirements "
+C. "Prioritized requirements "
+D. "Approved requirements "
+
+,
+160)Bill is a BA for DuSheune Enterprises, a highly competitive marketing and research firm. He is starting to prioritize the requirements of his project. What are the inputs of the prioritization process?
+
+A. "Requirements and designs "
+B. "Approved requirements and designs "
+C. "Verified requirements and designs "
+D. "Maintained requirements and designs "
+
+,
+161)The performance of all business analysis activities are directed by which of the following documents?
+
+A. "Information management approach "
+B. "Governance approach "
+C. "Business analysis approach "
+D. "Business analysis body of knowledge (BABOK) "
+
+,
+162)The business analyst has completed the identification and definition of why a change to a system is required. The business analyst has also identified new capabilities that the current system cannot perform and are required by the enterprise to achieve the business need. Risks have been identified and assessed. What is the business analyst's next step?
+
+A. "Determine the business process gaps. "
+B. "Determine the change strategy. "
+C. "Determine the organizational impacts. "
+D. "Determine architectural gaps. "
+
+,
+163)What is included in the output of the plan stakeholder engagement task in business analysis planning and monitoring?
+
+A. "Lessons learned "
+B. "Stakeholder communication needs "
+C. "Business analysis approach "
+D. "Collaboration and communication approaches the business analyst will use in the project "
+
+,
+164)Ed is a new business analyst working on the requirements for a large initiative to expand the functionality of an insurance product at his company. A senior BA told Ed that he should use a requirements management tool to trace the requirements for this effort. To make using the complexity of a requirements management tool worthwhile, what can be implied from the senior business analyst's suggestion?
+
+A. "The number of requirements are quite extensive. "
+B. "There are relatively few requirements for Ed's project. "
+C. "Poorly defined requirements "
+D. "There are multiple relationships between requirements on this project. "
+
+,
+165)Which technique would a business analyst use to identify business rules that may be similar across the enterprise in order to facilitate reuse?
+
+A. "Enterprise analysis "
+B. "Business rules analysis "
+C. "Data modeling "
+D. "Data flow diagrams "
+
+,
+166)"Which of the following is NOT a component of the risk analysis and management technique? "
+
+A. "Risk response plan "
+B. "Likelihood of occurrence "
+C. "Impact of a risk "
+D. "Ease of detectibility of a risk "
+
+,
+167)In what situation would a feasibility analysis be MOST useful?
+
+A. "Migrating critical applications to a cloud environment. "
+B. "Buying a COTS package. "
+C. "When a sponsor places constraints on a solution option. "
+D. "Resolving a business problem. "
+
+,
+168)In many cases, stakeholders have different, conflicting needs and expectations. How would a business analyst help expose these differences and ensure their needs are met?
+
+A. "Through collaboration "
+B. "Through item tracking "
+C. "Through validation "
+D. "Through specifying and modeling their requirements "
+
+,
+169)Which techniques would work best to confirm your elicitation results?
+
+A. "Document analysis, interviews, process modeling, workshops "
+B. "Document analysis, interviews, reviews, workshops "
+C. "Document analysis, interviews, reviews, requirements model "
+D. "Document analysis, interviews, reviews, process modeling "
+
+,
+170)What is the purpose of creating user stories when specifying requirements?
+
+A. "To specify requirements as a brief statement about what people do or need to do when using the solution. "
+B. "To prevent scope creep. "
+C. "To represent the acceptance and evaluation criteria attributes of requirements. "
+D. "To specify a set of interactions between a system and one or more actors. "
+
+,
+171)Moira is a BA facilitating a discussion with stakeholders regarding the implementation strategy for a solution. The sponsor is pressuring the team to implement the solution by year end; their busiest time of year with the holidays. She ensures the conversation takes into consideration which of the following critical factors?
+
+A. "Key stakeholder requirements. "
+B. "Ability to train end-users by year end given the fact that it is their busiest time of the year. "
+C. "Minimal disruption to business activities and related organizational impacts. "
+D. Availability of the delivery team due to the holidays and resources' vacation schedules.
+
+,
+172)Jake is evaluating an existing solution. He determines that the existing metrics can't be considered quality indicators and recommends modifications. He adds in his report that he does, however, consider them valid. What could lead Jake to his conclusion?
+
+A. "Stakeholder expectations have changed and so the existing indicators aren't reliable. "
+B. "Existing indicators can't be considered reliable because they aren't collected frequently enough. "
+C. "The environment has changed and so the existing indicators aren't reliable. "
+D. "There seemingly aren't ""key"" performance indicators which every solution is required to have. "
+
+,
+173)Which techniques might you use during the assess risks task?
+
+A. "Brainstorming, root cause analysis, variance analysis "
+B. "Brainstorming, financial analysis, lessons learned "
+C. "Brainstorming, benchmarking, lessons learned "
+D. Brainstorming, functional decomposition, root cause analysis
+
+,
+174)"Placido is a BA who works at Trevi Global Foods (TGF), a food distribution company that has just acquired Agave Food Distributors (AFD) in the same industry. He has recommended a review of how dairy production is done in both companies because he has talked to a few stakeholders who told him that it is handled differently in both companies. This is particularly important because there are different regulations for different countries, provinces, and states where the food is distributed. Placido's boss has told him not to worry about what is happening today because the top priority is to integrate the software of both companies. How should Placido answer?"
+
+A. "It is important to understand how the new, integrated software will affect how people do their work. "
+B. It is important to understand how both companies are handling these processes today before integrating the systems. This will help ensure compliance with regulations after the integration takes place.
+C. "It is important to understand the existing software used by both companies before determining which, if any, changes are needed for the software integration. "
+D. It is important to understand the current state in order to ensure that both Trevi and AFD stakeholders understand how to use the new software.
+
+,
+175)"Placido is a BA who works at Trevi Global Foods (TGF), a food distribution company that has just acquired Agave Food Distributors (AFD) in the same industry. He has recommended a review of how dairy production is done in both companies because he has talked to a few stakeholders who told him that it is handled differently in both companies. This is particularly important because there are different regulations for different countries, provinces, and states where the food is distributed. The business executive overseeing the funding for this initiative insists that analyzing the current state is a waste of time. She says that the gains in productivity will be made by allowing the software to drive the future state. How should Placido respond?"
+
+A. "The risk of conflict among stakeholders and the delay caused by spending time resolving the conflict will be reduced by analyzing the current state. "
+B. "Change occurs in the context of the future state which will affect stakeholders, processes, technology, and policies. Determining the future state of the enterprise prior to the change is necessary to identify what will need to change to provide value and achieve success. "
+C. If we do not define the current state, we will not be able to define performance measures to determine the effectiveness of a new solution.
+D. "Although it is true that benefits will be realized only after the solution is implemented, taking the time to determine the Solution Scope will reduce risks and prevent costly errors and rework. "
+
+,
+176)"Placido is a BA who works at Trevi Global Foods (TGF), a food distribution company that has just acquired Agave Food Distributors (AFD) in the same industry. He has recommended a review of how dairy production is done in both companies because he has talked to a few stakeholders who told him that it is handled differently in both companies. This is particularly important because there are different regulations for different countries, provinces, and states where the food is distributed. After a great deal of discussion, the business executive has agreed to model existing processes and compare the time it takes to complete the Value Stream of the dairy production processes. Below is a Value Stream map of one set of the processes in AFD. Which statement below is correct? "
+
+A. "Total elapsed time is 8 hours "
+B. "Total elapsed time is 7.5 hours "
+C. "Total elapsed time is 15.5 hours "
+D. "Unknown. In order to calculate the total elapsed time, we need the wait time a) between the time the supplier provides the input and the start of process 1, and b) the wait time from when Process 3 is complete until the final output is in the hands of the customer. "
+
+,
+177)"What state or status should the requirements be in to serve as an input to the Define Requirements Architecture task? "
+
+A. "Verified. "
+B. Approved
+C. "They can be in any state or status. "
+D. Confirmed
+
+,
+178)Ginger is a BA working in the investment area in a large financial institution. A new regulation has been passed that will force a change in the related business process as well as the associated software. The business area Ginger has been working with does not understand why Ginger does not simply ask the IT area to make a change in the software since the change is a result of a mandate. She replies that first she needs to understand the business need. Why?
+
+A. "She needs to understand what the business is trying to achieve through the changes. "
+B. "Understanding the business need will ensure the most cost-effective and viable way to fulfill the new regulatory requirement will be identified. "
+C. "Ginger needs the information for the business case, no matter how self-evident it appears. "
+D. "Ginger wants to ensure documentation is robust, aligns to best practice, and ""auditable"" for the regulators. "
+
+,
+179)What are the inputs to the manage stakeholder collaboration task?
+
+A. "Stakeholder engagement approach and business analysis performance assessment "
+B. "Business analysis approach and business analysis performance assessment "
+C. "Stakeholder engagement approach and business analysis approach "
+D. "Stakeholder engagement approach and information management approach "
+
+,
+180)Which of the following techniques would be best suited to identify how to evaluate the quality of the requirements?
+
+A. "Metrics and key performance indicators (KPIs) "
+B. "Acceptance and evaluation criteria "
+C. "Verify requirements "
+D. Reviews
+
+,
+181)Which of the following statements is accurate about adaptive approaches?
+
+A. "Adaptive approaches typically call for formal documentations and representations. "
+B. "In an adaptive approach, planning may be done, but it is not essential. "
+C. "In an adaptive approach, mandatory requirements are often limited to a prioritized requirements list. "
+D. "In an adaptive approach, tasks are performed in specific phases. "
+
+,
+182)Liz conducted focus groups with dissatisfied customers to identify the root cause(s) of declining customer satisfaction scores, researched cost-effective solutions, performed a detailed cost/benefit analysis for each option, and presented a recommendation to the Director of Support Services in a business case. Liz was incredibly proud of her work. The director and other key stakeholders were not impressed and deferred her recommendation. What is the most likely reason for the lack of support for Liz's recommendation?
+
+A. "Liz failed to use multiple elicitation techniques so decision-makers were hesitant to believe the identified root cause(s). "
+B. "Liz conducted the work on her own and failed to collaborate with stakeholders. "
+C. "Liz presented her work to a key stakeholder vs. the decision-maker (sponsor). "
+D. "The director didn't support the financial assumptions in the analysis and so had little faith in the overall cost/benefit analysis. "
+
+,
+183)Which of the following requirements does NOT meet the characteristics of a quality requirement.
+
+A. "The system shall display bond prices using 3 decimal places instead of fractions. "
+B. "The system shall read the tracking database and feed the bond prices to the web database using XML. "
+C. "The system shall provide a maintenance function for correcting any missing data. "
+D. "Bond prices will be viewable and sort able by maturity date, length of security, yield, and rating. "
+
+,
+184)"Gwen is monitoring and controlling the progress and performance of the business analysis work and planning improvement processes where required. Which of the following guidelines would be beneficial for Gwen in this case? "
+
+A. "Business policies "
+B. "Organizational performance standards "
+C. "Accuracy and completeness "
+D. "Legal/regulatory information "
+
+,
+185)What is the purpose of estimation in determining the potential value for each design option?
+
+A. "To forecast and estimate each stakeholder's value in the project. "
+B. "To create and estimate the measurements used in defining value. "
+C. "To be able to provide some figures to the executives. "
+D. "To forecast the costs and efforts of meeting the requirements. "
+
+,
+186)"You are a BA working at a large retailer and are reviewing the documentation for an Order Processing System to understand the current state before working on an enhancement. The enhancement will add a predictive inventory replenishment capability. An increasing problem at your company is that popular products are frequently out of stock. An important part of the existing documentation is the diagram below. Which techniques besides document analysis would you use to help you understand the context and need for the enhancement?"
+
+A. "Data Mining, Root-Cause Analysis, Benchmarking "
+B. "Business Model Canvas, Decision Analysis, SWOT Analysis "
+C. "Data Flow Diagrams, Item Tracking, Risk Analysis "
+D. "Workshops, Scope Modeling, Balanced Scorecard "
+
+,
+187)"You are a BA working at a large retailer and are reviewing the documentation for an Order Processing System to understand the current state before working on an enhancement. The enhancement will add a predictive inventory replenishment capability. An increasing problem at your company is that popular products are frequently out of stock. An important part of the existing documentation is the diagram below. You have studied the diagram and have an idea which flow starts an order. Which flow in the diagram is most likely to start the process?"
+
+A. "Any of the flows could potentially start the process since a DFD is not a sequentially oriented document. "
+B. "Order/catalog request. "
+C. "Order information. "
+D. "A swimlane diagram would be needed to establish the starting point for an order. "
+
+,
+188)"You are a BA working at a large retailer and are reviewing the documentation for an Order Processing System to understand the current state before working on an enhancement. The enhancement will add a predictive inventory replenishment capability. An increasing problem at your company is that popular products are frequently out of stock. An important part of the existing documentation is the diagram below. Which flow in the diagram is most likely missing?"
+
+A. "Shipping instructions "
+B. "New customer information "
+C. "Reduce inventory "
+D. "Credit card details "
+
+,
+189)You are the business analyst on an effort and one of your stakeholders references the proposed changes to confirm compliance to standards. What type of stakeholder is this?
+
+A. "Project manager "
+B. Sponsor
+C. Regulator
+D. Tester
+
+,
+190)Akira is closely managing particular stakeholders who can impose their own requirements for how business analysis information should be managed during the governance process. Which stakeholders are they?
+
+A. "Domain subject matter experts "
+B. "Regulators "
+C. Sponsors
+D. "Project managers "
+
+,
+191)When should the timing of business analysis work be identified?
+
+A. "When planning the overall business analysis approach. "
+B. "At the point when estimates are needed to realize efficiencies from just-in-time planning. "
+C. "After resource leveling to ensure required resources will be available. "
+D. "After the business analysis approach document is approved and the development of a detailed plan can begin. "
+
+,
+192)"A CIO is sold on a new idea to create and implement a business relationship manager (BRM) role as described in best practice frameworks. She would like to determine the viability of the idea before authorizing financial and human resources. What would the BA likely conduct to determine viability of the BRM role? "
+
+A. A feasibility study.
+B. "A decision package. "
+C. "A business case. "
+D. "A market analysis. "
+
+,
+193)"A CIO is sold on a new idea to create and implement a business relationship manager (BRM) role as described in best practice frameworks. She would like to determine the viability of the idea before authorizing financial and human resources. What might the BA recommend doing before determining the viability of the BRM role?"
+
+A. "Fully explore, document, and gain consensus on the underlying business need. "
+B. "A cost/benefit analysis to determine the overall financial value of the BRM role. "
+C. "Document the forecasted responsibilities associated with the BRM role in order to better determine viability. "
+D. "A benchmarking study to determine how other companies are more cost-effectively addressing the business need. "
+
+,
+194)When is the best time for a business analyst to specify and model requirements during the elicitation and collaboration knowledge area?
+
+A. "Whenever it would add value to elicitation and collaboration tasks. "
+B. "Requirements should not be specified and modeled until after they are confirmed. "
+C. "While executing confirm elicitation results. "
+D. "While preparing the business analysis information package as an input to communicate business analysis information. "
+
+,
+195)You are conducting impact analysis to evaluate the effect of a change request. You plan to document the impacts and resolutions resulting from the analysis and will communicate them to all relevant stakeholders to gain consensus. Which of the following will guide how these decisions are made and communicated across an initiative?
+
+A. "Plan business analysis governance "
+B. "Plan business analysis information management "
+C. "Project management office (PMO) "
+D. "Requirement management plan "
+
+,
+196)Which of the following is included within the business analysis approach?
+
+A. Workshop
+B. "Methodologies and frameworks "
+C. "The timing and the sequence of the business analysis work "
+D. "Corrective and preventive actions "
+
+,
+197)What is the purpose of the information management approach in defining requirements architecture?
+
+A. "Defines the relationships between requirements, designs, and solution components. "
+B. "It defines the level of detail at which information should be captured. "
+C. "To trace business rules to requirements that they support. "
+D. "Defines how the business analysis information will be stored and accessed. "
+
+,
+198)Peggy is applying her findings of the gap analysis to the solution scope and change strategy. What should she keep in mind during this exercise?
+
+A. The most timely way to acquire new capabilities so the business can realize value as quickly as possible.
+B. "The findings must be applied to both the transition and future states. "
+C. "That the gap analysis findings may have to be allocated to various releases defined in the project scope. "
+D. "That the same techniques should be used to describe the current and future states to simplify the comparison. "
+
+,
+199)How should solution options that offer potential capabilities above and beyond those identified in the original business case be handled?
+
+A. "Documented and stored in a way that is easily accessed for similar initiatives. "
+B. "Ignored. These were not part of the original business case and are not relevant to the proposed solution. "
+C. "Ignored. The term for these capabilities is 'gold plating.' "
+D. "Identified even when not deemed immediately useful, if the organization anticipates using them in the future. "
+
+,
+200)Your team is writing a business case and is having trouble agreeing on the business need. High level requirements have been elicited and a preferred solution identified, but the stakeholders are still conflicted about the business need. Which statement best describes the situation?
+
+A. "Business needs were probably initially expressed along with a presumed solution. "
+B. "Eliciting of requirements did not include the project sponsor. "
+C. The enterprise culture just isn't ready for a formal business analysis approach. An organizational assessment should be conducted.
+D. "The team members are representing varying perspectives. "
