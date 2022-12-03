@@ -1,0 +1,24 @@
+{
+  "name": "random-quizz",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tysy123/Random-Quiz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tysy123/Random-Quiz/issues"
+  },
+  "homepage": "https://github.com/tysy123/Random-Quiz#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
