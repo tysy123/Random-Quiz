@@ -7,8 +7,8 @@
   },
   "main": "ndex.js",
   "scripts": {
-    "start": "node index.js",
-    "devstart": "nodemon index.js",
+    "start": "node ./bin/www",
+    "devstart": "nodemon ./bin/www",
     "serverstart": "DEBUG=express-locallibrary-tutorial:* npm run devstart"
   },
   "repository": {
